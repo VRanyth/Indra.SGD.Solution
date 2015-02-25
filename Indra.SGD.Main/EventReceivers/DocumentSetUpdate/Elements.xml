@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListTemplateId="101">
+    <Receiver>
+      <Name>DocumentSetUpdateItemAdding</Name>
+      <Type>ItemAdding</Type>
+      <Assembly>$SharePoint.Project.AssemblyFullName$</Assembly>
+      <Class>Indra.Projects.SGD.DocumentSetUpdate.DocumentSetUpdate</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>DocumentSetUpdateItemDeleting</Name>
+      <Type>ItemDeleting</Type>
+      <Assembly>$SharePoint.Project.AssemblyFullName$</Assembly>
+      <Class>Indra.Projects.SGD.DocumentSetUpdate.DocumentSetUpdate</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>DocumentSetUpdateItemAdded</Name>
+      <Type>ItemAdded</Type>
+      <Assembly>$SharePoint.Project.AssemblyFullName$</Assembly>
+      <Class>Indra.Projects.SGD.DocumentSetUpdate.DocumentSetUpdate</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>DocumentSetUpdateItemDeleted</Name>
+      <Type>ItemDeleted</Type>
+      <Assembly>$SharePoint.Project.AssemblyFullName$</Assembly>
+      <Class>Indra.Projects.SGD.DocumentSetUpdate.DocumentSetUpdate</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+  </Receivers>
+</Elements>

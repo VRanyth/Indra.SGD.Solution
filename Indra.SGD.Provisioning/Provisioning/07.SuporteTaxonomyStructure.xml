@@ -1,0 +1,1063 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Taxonomy>
+  <TermStore name="Managed Metadata Service" enable="true">
+    <TaxonomyGroup name="Indra SGD Document Center" enable="true">
+      <TermSet name="Navegação no Site" guid="70cccf2c-62d5-4e49-8d40-b5c029b1d2eb" lcid="1033" isOpenForTermCreation="false" enable="true">
+        <Term Name="001 PLANEAMENTO E GESTÃO ADMINISTRATIVA (ACTIVIDADES-MEIO)" Description="Description PLANEAMENTO E GESTÃO ADMINISTRATIVA (ACTIVIDADES-MEIO)" lcid="1033" guid="e0174adc-6709-4422-acd3-1d1f9a0463ef" enable="true">
+          <LocalCustomProperties />
+          <Terms>
+            <Term Name="001.01 ADMINISTRAÇÃO" Description="Description ADMINISTRAÇÃO" lcid="1033" guid="c97e69c9-58be-400e-a06f-1d7a5e9b9573" enable="true">
+              <LocalCustomProperties />
+              <Terms>
+                <Term Name="001.01.01  Organização da Empresa  " Description="Description  Organização da Empresa  " lcid="1033" guid="5329b0dd-2f6d-4378-805f-6aab588d013a" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.02  Relatório e Contas da Empresa " Description="Description  Relatório e Contas da Empresa " lcid="1033" guid="2a03a40c-135e-4f6c-b9c0-f89a30cbf70a" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.03  Propriedade Industrial e Comercial" Description="Description  Propriedade Industrial e Comercial" lcid="1033" guid="4ef50b32-90cd-4c03-aa9f-6c70ade1692a" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.04  Relações com MINEA" Description="Description  Relações com MINEA" lcid="1033" guid="528fb46f-3126-4395-b873-13dd8ba69a52" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.05  Relações com Bancos" Description="Description  Relações com Bancos" lcid="1033" guid="7285bc53-08d0-4355-9252-b7e40382058f" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.06  Relações c/ Órgãos de Soberania" Description="Description  Relações c/ Órgãos de Soberania" lcid="1033" guid="f1f14418-9552-4ce1-b8a0-fad49ea2079c" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.07  Relações com Governos Provinciais" Description="Description  Relações com Governos Provinciais" lcid="1033" guid="d1279f47-713c-4027-9b2c-e4d5711c34a5" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.08  Relações com Entidades Externas Diversas" Description="Description  Relações com Entidades Externas Diversas" lcid="1033" guid="9c59229c-e753-4867-8560-6ab593578021" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.09  Inquéritos Oficiais" Description="Description  Inquéritos Oficiais" lcid="1033" guid="d61d3f1a-53de-46e7-9997-5a175dfe16f5" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.10  Indicadores de Gestão" Description="Description  Indicadores de Gestão" lcid="1033" guid="24d63c89-7067-4228-8427-1e2f883e5464" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.11  GPCA" Description="Description  GPCA" lcid="1033" guid="9e6303a9-ad72-4f22-8585-bf994efeda4b" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.12  ASSESSORIA PCA" Description="Description  ASSESSORIA PCA" lcid="1033" guid="7feee92f-fea2-4316-8e6f-e1546e54ad00" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.13  ADM (AT)" Description="Description  ADM (AT)" lcid="1033" guid="140f5f97-ba00-4f2d-8c5b-3cc1acb5422e" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.14  ADM (AC))" Description="Description  ADM (AC))" lcid="1033" guid="8e9eb019-2722-4271-a490-7b7a11635e34" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.15  ADM (DE)" Description="Description  ADM (DE)" lcid="1033" guid="bf41bbdf-744f-4768-8016-491378adeeb6" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.16  ADM (AF)" Description="Description  ADM (AF)" lcid="1033" guid="91f079ec-6091-45d7-8428-6ee5ee69c33e" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.50  Reuniões" Description="Description  Reuniões" lcid="1033" guid="24255330-4817-47fe-b68c-403049fcc74a" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.51  Orçamentos e Planos" Description="Description  Orçamentos e Planos" lcid="1033" guid="95a0957f-76e3-4dbb-a080-3cb1a1662dbc" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.52  Gestão Pessoal" Description="Description  Gestão Pessoal" lcid="1033" guid="91bb6fb3-2fd9-4270-a605-ab50b9772be5" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.53  Estatísticas" Description="Description  Estatísticas" lcid="1033" guid="cdee93ac-044f-423d-9061-9b2f45a96d2f" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.54  Auditorias" Description="Description  Auditorias" lcid="1033" guid="76a801d5-ca43-4c78-8985-cc409cbb7b79" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.55  Legislação, Normas e Regulamentos" Description="Description  Legislação, Normas e Regulamentos" lcid="1033" guid="000b6daf-312f-462a-9739-1552479f315d" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.01.99  Diversos" Description="Description  Diversos" lcid="1033" guid="7e5f7571-e635-4052-9943-184f835f12f8" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+              </Terms>
+            </Term>
+            <Term Name="001.02 PLANEAMENTO E CONTROLO ESTRATÉGICO" Description="Description PLANEAMENTO E CONTROLO ESTRATÉGICO" lcid="1033" guid="b162cfcf-df97-4df8-81b4-33122e800a9a" enable="true">
+              <LocalCustomProperties />
+              <Terms>
+                <Term Name="001.02.01  Gestão do Desenvolvimento e Mudança Estratégica" Description="Description  Gestão do Desenvolvimento e Mudança Estratégica" lcid="1033" guid="b5671875-ae18-4b3b-9d6c-0afe39f0c6ed" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.02.02  Planeamento e Alinhamento do Negócio" Description="Description  Planeamento e Alinhamento do Negócio" lcid="1033" guid="8ad636a5-ab04-4fec-be28-3c99fff3f443" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.02.03  Avaliação e Medidas Correctivas" Description="Description  Avaliação e Medidas Correctivas" lcid="1033" guid="a464aed6-970b-46ed-9fb1-f6a763f013eb" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.02.04  Gestão das Iniciativas Estratégicas" Description="Description  Gestão das Iniciativas Estratégicas" lcid="1033" guid="d084916e-810f-4ff5-97e1-5368dd9910d6" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.02.05  Gestão do Desempenho Organizacional" Description="Description  Gestão do Desempenho Organizacional" lcid="1033" guid="3db0e640-d0fa-41c3-9bac-774d972bf5bb" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.02.06  Relações com MINEA" Description="Description  Relações com MINEA" lcid="1033" guid="8ffe4e89-574c-423f-9761-320c31ab2143" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.02.07  Relações com Ministérios" Description="Description  Relações com Ministérios" lcid="1033" guid="90cb32c1-896b-4dcf-bb44-f63149399b02" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.02.50  Reuniões" Description="Description  Reuniões" lcid="1033" guid="374b98b2-7ad3-48a4-a335-7371ca1978fd" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.02.51  Orçamentos e Planos" Description="Description  Orçamentos e Planos" lcid="1033" guid="b1be6912-a4a7-4229-b1fa-91894a11437d" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.02.52  Gestão Pessoal" Description="Description  Gestão Pessoal" lcid="1033" guid="427de352-d86e-4669-9b86-69380f15f258" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.02.53  Estatísticas" Description="Description  Estatísticas" lcid="1033" guid="440ad764-fb82-4009-b709-e75b95265340" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.02.54  Auditorias" Description="Description  Auditorias" lcid="1033" guid="be20f9ad-647c-48b3-a7a8-802ad4645014" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.02.55  Legislação, Normas e Regulamentos" Description="Description  Legislação, Normas e Regulamentos" lcid="1033" guid="40ab5bfc-2b86-4a77-a129-423fb4f554c6" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.02.99  Diversos" Description="Description  Diversos" lcid="1033" guid="093a4bc0-fad6-4887-8aa3-c17c1f86a8ef" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+              </Terms>
+            </Term>
+            <Term Name="001.03 AUDITORIA INTERNA" Description="Description AUDITORIA INTERNA" lcid="1033" guid="5832c1d9-576a-4237-a888-81c6f70c4409" enable="true">
+              <LocalCustomProperties />
+              <Terms>
+                <Term Name="001.03.01  Auditorias" Description="Description  Auditorias" lcid="1033" guid="437a1ddf-fbd4-46f7-8f97-647ff86a7dbb" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.03.50  Reuniões" Description="Description  Reuniões" lcid="1033" guid="96fd0f15-c532-4b31-b9ba-b69857c44e5b" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.03.51  Orçamentos e Planos" Description="Description  Orçamentos e Planos" lcid="1033" guid="94beb98d-26b2-4a9e-a0ab-7d089f41b60f" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.03.52  Gestão Pessoal" Description="Description  Gestão Pessoal" lcid="1033" guid="93d5d564-14ca-4773-bb40-d812074cc170" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.03.53  Estatísticas" Description="Description  Estatísticas" lcid="1033" guid="7832e1d9-7d4e-42f9-a364-76cea16cce29" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.03.55  Legislação, Normas e Regulamentos" Description="Description  Legislação, Normas e Regulamentos" lcid="1033" guid="bdd85460-8725-48b4-a239-f07d30df0e38" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.03.99  Diversos" Description="Description  Diversos" lcid="1033" guid="aac8b5f5-892e-48ab-9ff1-2b6a4de52837" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+              </Terms>
+            </Term>
+            <Term Name="001.04  FISCALIZAÇÃO" Description="Description FISCALIZAÇÃO" lcid="1033" guid="50cabb16-0a14-4bb7-a5f7-65ce968c64b7" enable="true">
+              <LocalCustomProperties />
+              <Terms>
+                <Term Name="001.04.01  Acompanhamento de Mercado" Description="Description  Acompanhamento de Mercado" lcid="1033" guid="d084bf64-c8de-45d8-b171-7c23f020f3b2" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.04.02  Análise, Interpretação e Tratamento Legal" Description="Description  Análise, Interpretação e Tratamento Legal" lcid="1033" guid="0a03cc0f-5db6-46ed-987d-29b018119d20" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.04.50  Reuniões" Description="Description  Reuniões" lcid="1033" guid="300a1442-ce58-41c6-80ec-0635b85ea8de" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.04.51  Orçamentos, Programas e Planos" Description="Description  Orçamentos, Programas e Planos" lcid="1033" guid="4bd7993b-7aa6-45f8-b6ae-fe293480cbc9" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.04.52  Gestão Pessoal" Description="Description  Gestão Pessoal" lcid="1033" guid="3349e7d6-9349-43f7-8746-3dde5af04bb7" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.04.53  Estatísticas" Description="Description  Estatísticas" lcid="1033" guid="d7230316-298e-4d4d-beda-ff4a88f95122" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.04.54  Auditorias e Inspecções" Description="Description  Auditorias e Inspecções" lcid="1033" guid="ddd0c1ff-27c7-4888-947f-4feec181278e" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.04.55  Legislação, Normas, Regulamentos e Procedimentos" Description="Description  Legislação, Normas, Regulamentos e Procedimentos" lcid="1033" guid="387a5a9a-c94a-45cc-b0ca-eae6d22c1ff5" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.04.99  Diversos" Description="Description  Diversos" lcid="1033" guid="0db35f3f-c918-43bc-ac82-d711f6dd356c" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+              </Terms>
+            </Term>
+            <Term Name="001.05  COMUNICAÇÃO E IMAGEM" Description="Description  COMUNICAÇÃO E IMAGEM" lcid="1033" guid="e866064e-88a9-4908-a4eb-0fb91ab8c002" enable="true">
+              <LocalCustomProperties />
+              <Terms>
+                <Term Name="001.05.01  Comunicação institucional" Description="Description  Comunicação institucional" lcid="1033" guid="5ff3f192-5777-4489-8d0c-a78095267b5c" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.05.02  Produtos e Especificações Técnicas" Description="Description  Produtos e Especificações Técnicas" lcid="1033" guid="77e58365-79c1-4329-9279-513fdc8243ca" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.05.03  Publicidade e Marketing" Description="Description  Publicidade e Marketing" lcid="1033" guid="32996ce5-efd4-4f83-8c42-5ed465f2a8ad" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.05.04  Feiras Nacionais e Internacionais" Description="Description  Feiras Nacionais e Internacionais" lcid="1033" guid="26e415c8-5621-40f0-b203-99c77a800dd7" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.05.05  Patrocínios e Mecenato" Description="Description  Patrocínios e Mecenato" lcid="1033" guid="d2cda3f6-6722-4b0c-804e-ab45f5825cb1" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.05.06  Relação com os Média" Description="Description  Relação com os Média" lcid="1033" guid="96445336-1a94-4346-b5e8-66c124fb2444" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.05.50  Reuniões" Description="Description  Reuniões" lcid="1033" guid="35d8537b-1d01-4f21-aa1b-ed7e26218b87" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.05.51  Orçamentos e Planos" Description="Description  Orçamentos e Planos" lcid="1033" guid="ce2abb3d-5c6e-43f7-ab92-0d9bdd2d0e3f" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.05.52  Gestão Pessoal" Description="Description  Gestão Pessoal" lcid="1033" guid="b7dfb75f-3458-4445-9d10-7840d92fd509" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.05.53  Estatísticas" Description="Description  Estatísticas" lcid="1033" guid="f6ff37c0-f313-47d6-a844-adc562962ea1" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.05.54  Auditorias" Description="Description  Auditorias" lcid="1033" guid="bd0ab669-8c60-4610-ab24-9423c875d04e" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.05.55  Legislação, Normas e Regulamentos" Description="Description  Legislação, Normas e Regulamentos" lcid="1033" guid="50834b8f-2e41-44b9-8c48-bd265943e72a" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.05.99  Diversos" Description="Description  Diversos" lcid="1033" guid="8c184e9a-fe6f-4e82-a5b7-db120c616f4a" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+              </Terms>
+            </Term>
+            <Term Name="001.06  JURÍDICO" Description="Description  JURÍDICO" lcid="1033" guid="8b2ff50b-b476-4e77-b493-a8b8492e9b27" enable="true">
+              <LocalCustomProperties />
+              <Terms>
+                <Term Name="001.06.01  Contratação " Description="Description  Contratação " lcid="1033" guid="798b8069-a9e3-4a88-beee-c055b392e03d" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.06.02  Contencioso laboral" Description="Description  Contencioso laboral" lcid="1033" guid="f0e04bc0-db3d-41b5-afe6-507d608833b0" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.06.03  Organização" Description="Description  Organização" lcid="1033" guid="0870ff5a-5f42-4d8a-9c27-e9d75ceddc0f" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.06.04  Obrigações" Description="Description  Obrigações" lcid="1033" guid="e1fc6817-29c6-4896-acca-b946a98f0d01" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.06.05  Análise, Interpretação e Tratamento da Legislação" Description="Description  Análise, Interpretação e Tratamento da Legislação" lcid="1033" guid="5747fbe9-e5fe-4f40-beb2-7939327de40c" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.06.06  Relações com MINEA" Description="Description  Relações com MINEA" lcid="1033" guid="22e52156-19a8-4365-adb8-96a39cff2a35" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.06.07  Relações com Ministérios" Description="Description  Relações com Ministérios" lcid="1033" guid="1e6226a2-414b-4f76-a8c2-6e2e2baa8a79" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.06.08  Relações com Empresas de Prestação de Serviços" Description="Description  Relações com Empresas de Prestação de Serviços" lcid="1033" guid="f724fc7d-bc29-4f3c-b47e-d32de469735c" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.06.09  Relações com Parceiros" Description="Description  Relações com Parceiros" lcid="1033" guid="d9a9eb6c-f1a4-4003-af90-fe898d2b24fc" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.06.50  Reuniões" Description="Description  Reuniões" lcid="1033" guid="a7e0ab3b-da95-4fc1-9135-05d2b7f65e5f" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.06.51  Orçamentos e Planos" Description="Description  Orçamentos e Planos" lcid="1033" guid="1492c109-01c5-4098-9995-5a31db2137f7" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.06.52  Gestão Pessoal" Description="Description  Gestão Pessoal" lcid="1033" guid="50b9b425-5f42-4607-a8b1-c068bb765216" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.06.53  Estatísticas" Description="Description  Estatísticas" lcid="1033" guid="db196fee-5d0c-4d15-a5e5-0e30cf0ab912" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.06.54  Auditorias" Description="Description  Auditorias" lcid="1033" guid="260b1274-66b6-4373-962f-e2f275cb2300" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.06.55  Legislação, Normas e Regulamentos" Description="Description  Legislação, Normas e Regulamentos" lcid="1033" guid="08fb84b9-26e3-4fbe-acf9-394cf0f1adec" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.06.99  Diversos" Description="Description  Diversos" lcid="1033" guid="7f19f9a8-0ba9-4909-847f-0e154094d38c" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+              </Terms>
+            </Term>
+            <Term Name="001.07  SEGURANÇA EMPRESARIAL" Description="Description  SEGURANÇA EMPRESARIAL" lcid="1033" guid="cbbd5d4c-f47f-410e-a9c2-14d898e329af" enable="true">
+              <LocalCustomProperties />
+              <Terms>
+                <Term Name="001.07.01  Políticas, metodologia e estratégias " Description="Description  Políticas, metodologia e estratégias " lcid="1033" guid="f81d902e-9989-4724-855d-14f20978250c" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.07.02  Normas e procedimentos" Description="Description  Normas e procedimentos" lcid="1033" guid="72da8571-5ca3-4568-b67d-237a56b508c7" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.07.03  Segurança preventiva e correctiva" Description="Description  Segurança preventiva e correctiva" lcid="1033" guid="bdab6ab2-9765-4381-9ace-6782c72bae33" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.07.04  Fornecedores de serviços" Description="Description  Fornecedores de serviços" lcid="1033" guid="82c1a20a-c202-485a-a6fd-87496573ce2d" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.07.05  Indicadores de desempenho" Description="Description  Indicadores de desempenho" lcid="1033" guid="2df1ef90-921c-451c-9ec2-f144c701f3fb" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.07.50  Reuniões" Description="Description  Reuniões" lcid="1033" guid="e0e6d0a5-2ed2-42dc-9dab-4cf0766e54e6" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.07.51  Orçamentos e Planos" Description="Description  Orçamentos e Planos" lcid="1033" guid="4622c155-5f46-4027-afbf-eeb9f80d18ba" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.07.52  Gestão Pessoal" Description="Description  Gestão Pessoal" lcid="1033" guid="9f5dd963-2784-467e-a5fd-afcbc17a7a07" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.07.53  Estatísticas" Description="Description  Estatísticas" lcid="1033" guid="2ca9a46b-d12f-4221-8300-b4426b622f18" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.07.54  Auditorias" Description="Description  Auditorias" lcid="1033" guid="64c1f98b-a579-426a-9f08-2c2894249c37" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.07.55  Legislação, Normas e Regulamentos" Description="Description  Legislação, Normas e Regulamentos" lcid="1033" guid="841464d0-a5dd-4596-b4b3-d6c7336dfc6a" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.07.99  Diversos" Description="Description  Diversos" lcid="1033" guid="494f3f62-af63-4757-ac05-a70e01705c2b" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+              </Terms>
+            </Term>
+            <Term Name="001.08 TECNOLOGIAS DE INFORMAÇÃO" Description="Description TECNOLOGIAS DE INFORMAÇÃO" lcid="1033" guid="73659124-18f6-41e2-997d-ffb368db405a" enable="true">
+              <LocalCustomProperties />
+              <Terms>
+                <Term Name="001.08.01  Planificação" Description="Description  Planificação" lcid="1033" guid="572b642e-34d5-41cd-ae5d-c86ae3e6bcaa" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.08.02  Controlo" Description="Description  Controlo" lcid="1033" guid="ffb54b86-6184-455a-94f0-0549911f009c" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.08.03  Projecto" Description="Description  Projecto" lcid="1033" guid="7d59db3e-7f1e-47aa-816e-cdf7996e56d7" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.08.04  Gestão de Contratos de Prestação de Serviços" Description="Description  Gestão de Contratos de Prestação de Serviços" lcid="1033" guid="6774940d-9f05-4d87-8a0a-bb89475d5e0f" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.08.05  Fornecedores" Description="Description  Fornecedores" lcid="1033" guid="8ea5468c-ca4b-4348-8ac6-ee0ab6a94dec" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.08.06  Consultas de Mercado" Description="Description  Consultas de Mercado" lcid="1033" guid="28a76265-88aa-4c3e-a26d-53457c2ad36a" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.08.07  Aquisição e Compra de Equipamento/Hardware Software" Description="Description  Aquisição e Compra de Equipamento/Hardware Software" lcid="1033" guid="5b804006-9842-4610-bc19-84a8b935cd30" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.08.08  Suporte aos Utilizadores " Description="Description  Suporte aos Utilizadores " lcid="1033" guid="d2c238d5-ca26-4adc-bb3b-19a03cf5b358" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.08.09  Administração de Sistemas " Description="Description  Administração de Sistemas " lcid="1033" guid="8f873dbe-9540-43ec-9f11-dceeb6700617" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.08.10  Infraestrutura e Redes" Description="Description  Infraestrutura e Redes" lcid="1033" guid="fa3d7be7-d07a-478b-ba66-dff8794b83dd" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.08.11  Manuais Técnicos" Description="Description  Manuais Técnicos" lcid="1033" guid="532dfde6-ec53-4c36-8d8d-d5cb9671a502" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.08.50  Reuniões" Description="Description  Reuniões" lcid="1033" guid="d8b596d6-18ca-4ec5-8d2d-2a35791bf053" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.08.51  Orçamentos e Planos" Description="Description  Orçamentos e Planos" lcid="1033" guid="b8e82dc8-6f12-487f-8ed8-97c5a0dc7be7" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.08.52  Gestão Pessoal" Description="Description  Gestão Pessoal" lcid="1033" guid="702ed5bb-597b-4d1a-91ad-095d9fac9184" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.08.53  Estatísticas" Description="Description  Estatísticas" lcid="1033" guid="8968b8f4-9a76-4abd-811b-65ea211ff106" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.08.54  Auditorias" Description="Description  Auditorias" lcid="1033" guid="6e32e55a-8dcb-4c5b-955a-5f38555ea6d7" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.08.55  Legislação, Estratégias, Políticas e Procedimentos" Description="Description  Legislação, Estratégias, Políticas e Procedimentos" lcid="1033" guid="f4cdaa6a-06f4-4d33-8e01-a676cfd41645" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.08.99  Diversos " Description="Description  Diversos " lcid="1033" guid="63a236ed-65e9-4e83-9bb8-fe14c2f4a9c1" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+              </Terms>
+            </Term>
+            <Term Name="001.09 APROVISIONAMENTOS" Description="Description APROVISIONAMENTOS" lcid="1033" guid="2fa08696-1a02-431d-b5d7-b63cc5dd896e" enable="true">
+              <LocalCustomProperties />
+              <Terms>
+                <Term Name="001.09.01  Aquisição de Materiais" Description="Description  Aquisição de Materiais" lcid="1033" guid="02ea3eb7-341a-40a8-a065-9588a0466173" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.09.02  Entrega e Recepção de Materiais" Description="Description  Entrega e Recepção de Materiais" lcid="1033" guid="f11ec4a0-72ad-40d6-90fc-b70825039964" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.09.03  Requisição de Materiais" Description="Description  Requisição de Materiais" lcid="1033" guid="244dbd19-faa7-4d28-b4e7-6e41307cb064" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.09.04  Inventários" Description="Description  Inventários" lcid="1033" guid="ccba5392-b4df-4681-83b9-5f42345f0c87" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.09.05  Gestão de Stocks" Description="Description  Gestão de Stocks" lcid="1033" guid="521e4b93-4aaa-42b0-805a-3b733f100ff3" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.09.05  Controlo de Custos" Description="Description  Controlo de Custos" lcid="1033" guid="71030826-f3e4-44ca-bb34-f615022d731b" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.09.50  Reuniões" Description="Description  Reuniões" lcid="1033" guid="0b8f2906-4727-42ec-b071-db5f15d9a237" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.09.51  Orçamentos e Planos" Description="Description  Orçamentos e Planos" lcid="1033" guid="d8926dcf-efbf-4304-b2a2-368e95cdef75" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.09.52  Gestão Pessoal" Description="Description  Gestão Pessoal" lcid="1033" guid="6d10a57b-9959-4994-b234-cf1573bf9a43" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.09.53  Estatísticas" Description="Description  Estatísticas" lcid="1033" guid="ba8c1dbf-4470-4e82-ac19-ba6a58c9b837" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.09.99  Diversos" Description="Description  Diversos" lcid="1033" guid="1bd1363f-9bd9-42fb-9710-c9f7f7b5f1fa" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+              </Terms>
+            </Term>
+            <Term Name="001.10 EQUIPAMENTOS E TRANSPORTES" Description="Description EQUIPAMENTOS E TRANSPORTES" lcid="1033" guid="72819c54-4aa5-4042-882e-67fc89f444c4" enable="true">
+              <LocalCustomProperties />
+              <Terms>
+                <Term Name="001.10.01  Aquisição de Equipamentos" Description="Description  Aquisição de Equipamentos" lcid="1033" guid="c1d840b4-2c7c-4c77-baa0-ec709c6c1b75" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.10.02  Requisição de Equipamentos" Description="Description  Requisição de Equipamentos" lcid="1033" guid="7a6b096a-623f-44c6-b4dd-51e97065d556" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.10.03  Entrega e Recepção de Equipamentos " Description="Description  Entrega e Recepção de Equipamentos " lcid="1033" guid="7f6f4ea7-ecd5-49a5-99f8-705f8c3e2673" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.10.04  Gestão e Manutenção de Equipamentos" Description="Description  Gestão e Manutenção de Equipamentos" lcid="1033" guid="b8589fa6-d50c-4f52-b9f2-1af400e83f22" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.10.05  Aquisição de Viaturas" Description="Description  Aquisição de Viaturas" lcid="1033" guid="89a1457c-d6eb-44a5-a24f-a516968691bd" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.10.06  Gestão da Frota" Description="Description  Gestão da Frota" lcid="1033" guid="0771057a-faad-4cab-bb3c-1cb20dfdbcd5" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.10.07  Manutenção e Conservação de Viaturas" Description="Description  Manutenção e Conservação de Viaturas" lcid="1033" guid="9ce91a6d-c06f-4837-b4af-ed13d938a848" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.10.08  Assistência" Description="Description  Assistência" lcid="1033" guid="7337ea21-0b6d-4663-bac1-52e902cc43c0" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.10.09  Inventários" Description="Description  Inventários" lcid="1033" guid="34db1750-8932-4b75-8dc0-99b95e07f3f0" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.10.10  Controlo de Custos" Description="Description  Controlo de Custos" lcid="1033" guid="512efdc1-9a98-4223-9bc5-f65f74aa3efd" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.10.11  Manuais" Description="Description  Manuais" lcid="1033" guid="76a648bc-c14d-4a0b-a9e3-3239eec3b862" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.10.50  Reuniões" Description="Description  Reuniões" lcid="1033" guid="772ffe29-988e-405b-b283-d55ee5faf7c8" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.10.51  Orçamentos e Planos" Description="Description  Orçamentos e Planos" lcid="1033" guid="f4f30f4e-71ee-44b6-9df7-9c7930acf79e" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.10.52  Gestão Pessoal" Description="Description  Gestão Pessoal" lcid="1033" guid="e208cb82-de0b-4bb7-b9fd-42b8a1ca512e" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.10.53  Estatísticas" Description="Description  Estatísticas" lcid="1033" guid="8a8af333-732b-4ccd-95da-fa3577ef0eb4" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.10.54  Auditorias" Description="Description  Auditorias" lcid="1033" guid="c6ef3498-f204-4767-97cb-73ec5c69d008" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.10.55  Legislação, Estratégias, Políticas e Procedimentos" Description="Description  Legislação, Estratégias, Políticas e Procedimentos" lcid="1033" guid="a6ee0efe-59ba-4e8e-b345-e907599c6470" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.10.11  Diversos" Description="Description  Diversos" lcid="1033" guid="b2c4e2f2-de3c-40a1-9216-83709c74a65f" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+              </Terms>
+            </Term>
+            <Term Name="001.11 APOIO SOCIAL" Description="Description APOIO SOCIAL" lcid="1033" guid="f48c4e59-81d6-4a8a-950c-a706e0792646" enable="true">
+              <LocalCustomProperties />
+              <Terms>
+                <Term Name="001.11.01  Acção Social" Description="Description  Acção Social" lcid="1033" guid="20a4e6d4-fbf1-4ef8-890c-e4af39e33877" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.11.02  Creches" Description="Description  Creches" lcid="1033" guid="25a8589e-5928-43a3-b05f-ef165a3de848" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.11.03  Assistência Médica e Medicamentosa" Description="Description  Assistência Médica e Medicamentosa" lcid="1033" guid="a2426c64-b233-4335-9645-f0ce753fd911" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.11.04  Projectos Sociais" Description="Description  Projectos Sociais" lcid="1033" guid="32e739e2-fece-4292-a347-89b96f083dac" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.11.05  Funerais" Description="Description  Funerais" lcid="1033" guid="7520379e-28d1-4340-894e-257bd30c93c4" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.11.06  Palestras" Description="Description  Palestras" lcid="1033" guid="43a8f546-66f7-453a-bfbd-156d2cd54d8e" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.11.07  Bolsas de Estudo" Description="Description  Bolsas de Estudo" lcid="1033" guid="3abea71a-6d5f-4699-bbf9-ab7fb6533dd8" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.11.02  Cerimonial e Protocolo" Description="Description  Cerimonial e Protocolo" lcid="1033" guid="e68697e0-d133-49c3-9846-134313566b9a" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.11.50  Reuniões" Description="Description  Reuniões" lcid="1033" guid="cb0006f9-485e-4c1e-b519-2a6a5f7f5bda" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.11.51  Orçamentos e Planos" Description="Description  Orçamentos e Planos" lcid="1033" guid="befcbb87-0047-4d76-bfad-af73bd160777" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.11.52  Gestão Pessoal" Description="Description  Gestão Pessoal" lcid="1033" guid="cebcc25c-74c9-433a-8795-016ec2f29f95" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.11.53  Estatísticas" Description="Description  Estatísticas" lcid="1033" guid="78503524-4456-4ffa-9407-f34107859098" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.11.54  Auditorias" Description="Description  Auditorias" lcid="1033" guid="4f9844ec-9d47-45d0-8c2a-742177e5ff8c" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.11.55  Legislação, Estratégias, Políticas e Procedimentos" Description="Description  Legislação, Estratégias, Políticas e Procedimentos" lcid="1033" guid="ffb2e08f-e452-4fd5-92af-fb3af40b2787" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="001.11.11  Diversos" Description="Description  Diversos" lcid="1033" guid="53dd0d26-7018-46f4-aa3c-dcfba717f62d" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+              </Terms>
+            </Term>
+          </Terms>
+        </Term>
+        <Term Name="002 ADMINISTRAÇÃO E FINANÇAS (ACTIVIDADES-MEIO)" Description="Description ADMINISTRAÇÃO E FINANÇAS (ACTIVIDADES-MEIO)" lcid="1033" guid="d9d82d7a-1a67-40fc-9239-980d9fb663e4" enable="true">
+          <LocalCustomProperties />
+          <Terms>
+            <Term Name="002.01 GERAL" Description="Description GERAL" lcid="1033" guid="6357cc0d-ef2b-4b54-9cc0-7d176e842baf" enable="true">
+              <LocalCustomProperties />
+              <Terms>
+                <Term Name="002.01.03  Relações com Bancos" Description="Description  Relações com Bancos" lcid="1033" guid="c9579085-28c0-47cf-ae0c-66574c60e8cc" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.01.04  Relações com Ministérios" Description="Description  Relações com Ministérios" lcid="1033" guid="c1f59dfb-1d2c-4e9b-a875-d5e30598d448" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.01.50  Reuniões" Description="Description  Reuniões" lcid="1033" guid="c6042052-9b0a-4732-a12c-e3c314a1ebd1" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.01.51  Orçamentos e Planos" Description="Description  Orçamentos e Planos" lcid="1033" guid="40a6399b-21ce-41c5-b580-7bcb8cfd6a10" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.01.52  Gestão Pessoal" Description="Description  Gestão Pessoal" lcid="1033" guid="c5685c71-52b4-4aa3-b37f-4539418f0d9e" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.01.53  Estatísticas" Description="Description  Estatísticas" lcid="1033" guid="177ea683-8cb7-44cb-9857-12e22282a06b" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.01.54  Auditorias" Description="Description  Auditorias" lcid="1033" guid="7484bf17-7e08-473c-86d9-88b5a4c99ce1" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.01.55  Legislação, Normas e Regulamentos" Description="Description  Legislação, Normas e Regulamentos" lcid="1033" guid="d4fcbc87-bf4e-49a3-8772-a9666ce2a27a" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.01.99  Diversos" Description="Description  Diversos" lcid="1033" guid="5f87baec-9b7a-46d4-8096-129aa3998e78" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+              </Terms>
+            </Term>
+            <Term Name="002.02 CONTABILIDADE" Description="Description CONTABILIDADE" lcid="1033" guid="98013c91-81e7-4a9e-9fa7-ab0d08fcab06" enable="true">
+              <LocalCustomProperties />
+              <Terms>
+                <Term Name="002.02.01  Planos, Normas e Legislação" Description="Description  Planos, Normas e Legislação" lcid="1033" guid="742582cb-eaa9-4162-b5c7-13d846394516" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.02.02  Contas da Empresa " Description="Description  Contas da Empresa " lcid="1033" guid="e47a397f-26ec-4a9c-a7bc-058804291557" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.02.03  Operações Conjuntas" Description="Description  Operações Conjuntas" lcid="1033" guid="e8f3a168-0ae1-4b03-be63-5744744eb1d1" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.02.04  Empréstimos Obtidos e Concedidos" Description="Description  Empréstimos Obtidos e Concedidos" lcid="1033" guid="1aa76f50-b365-4fdb-a7fa-1cfad0a16d23" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.02.05  Fundos" Description="Description  Fundos" lcid="1033" guid="974ba71d-54f6-499e-8007-768cb0fdd812" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.02.06  Bancos" Description="Description  Bancos" lcid="1033" guid="47adab1c-c52b-46b5-b657-c468a6af60d0" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.02.07  Estado " Description="Description  Estado " lcid="1033" guid="365e5eea-8c89-41c4-98cb-b1cb3560671c" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.02.08  Fornecedores" Description="Description  Fornecedores" lcid="1033" guid="8e0a7585-e5ec-42ab-a8f4-7064c48961a8" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.02.09  Clientes" Description="Description  Clientes" lcid="1033" guid="ea410d79-9910-40c1-8d81-76e81fe28756" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.02.10  Licenciamentos" Description="Description  Licenciamentos" lcid="1033" guid="3637626e-95a0-4541-89b6-1d9903a44a24" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.02.11  Pagamentos a Terceiros" Description="Description  Pagamentos a Terceiros" lcid="1033" guid="e46ea500-497b-40fd-9dca-d5d3e030e998" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.02.12  Financiamentos " Description="Description  Financiamentos " lcid="1033" guid="b916b095-dfbe-455e-b1d1-2179a84f119d" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.02.13  Investimentos" Description="Description  Investimentos" lcid="1033" guid="065cd8f3-e5f0-487a-ab97-a6fd07d9606e" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.02.14  Reconciliação" Description="Description  Reconciliação" lcid="1033" guid="3f1bb2ca-fc7f-428c-8264-4eb8cdc58a14" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.02.15  Mapas da Contabilidade Geral" Description="Description  Mapas da Contabilidade Geral" lcid="1033" guid="c815aedb-ad66-48ef-8c36-a961c465b874" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.02.16  Salários" Description="Description  Salários" lcid="1033" guid="aa7fcad7-09b4-46a4-a79c-66102acdcc50" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.02.17  Contabilidade Analítica" Description="Description  Contabilidade Analítica" lcid="1033" guid="25954e82-798d-4666-879d-e018a90bb7ce" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+              </Terms>
+            </Term>
+            <Term Name="002.03 TESOURARIA" Description="Description TESOURARIA" lcid="1033" guid="f0d8a97e-44e0-49e9-8db3-2183c47b6c40" enable="true">
+              <LocalCustomProperties />
+              <Terms>
+                <Term Name="002.03.01  Gestão de Tesouraria" Description="Description  Gestão de Tesouraria" lcid="1033" guid="1d8a3fc0-6519-427e-b516-e5a925566bb2" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.03.02  Necessidades" Description="Description  Necessidades" lcid="1033" guid="8b35401c-56a5-47b7-ae57-8a309e3182b7" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.03.03  Instrumentos de Controlo" Description="Description  Instrumentos de Controlo" lcid="1033" guid="7b70091d-a10c-45fd-8535-bf76fd2ede03" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.03.04  Gestão de Fundos" Description="Description  Gestão de Fundos" lcid="1033" guid="8a6d898b-84fa-453b-b920-1292fcebb855" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.03.05  Fluxos de Caixa " Description="Description  Fluxos de Caixa " lcid="1033" guid="594134e5-e941-4af9-9059-74331cba6d84" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.03.06  Obrigações Financeiras" Description="Description  Obrigações Financeiras" lcid="1033" guid="60a8876b-4105-436f-ab3c-51714321fd1e" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.03.07  Obrigações Fiscais" Description="Description  Obrigações Fiscais" lcid="1033" guid="91812801-ef09-48f7-b64e-3c144edd6f1f" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.03.08  Bancos" Description="Description  Bancos" lcid="1033" guid="a304b689-4df2-4bba-a5e4-b7112512dbfc" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+              </Terms>
+            </Term>
+            <Term Name="002.04 ORÇAMENTO" Description="Description ORÇAMENTO" lcid="1033" guid="cc038767-92d7-4700-b340-e26e7ac78835" enable="true">
+              <LocalCustomProperties />
+              <Terms>
+                <Term Name="002.04.01  Execução Orçamental" Description="Description  Execução Orçamental" lcid="1033" guid="bd20f1a8-383e-4998-8eeb-e9cd81d76e8e" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.04.02  Procedimentos e Normas" Description="Description  Procedimentos e Normas" lcid="1033" guid="9959d4d5-1c2d-4b5c-a81d-51b1f2026e50" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.04.03  Relatórios e Quadros Demonstrativos" Description="Description  Relatórios e Quadros Demonstrativos" lcid="1033" guid="c1756069-b01a-4b5a-a90c-9968283e8af9" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.04.04  Consolidação Orçamental" Description="Description  Consolidação Orçamental" lcid="1033" guid="b8699e35-de0b-4ba9-b321-1a414c9658ec" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.04.05  Gestão de Risco" Description="Description  Gestão de Risco" lcid="1033" guid="7d2e1781-eefb-4e19-b021-855a16713b9e" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+              </Terms>
+            </Term>
+            <Term Name="002.05 CONTROLO DE CUSTOS" Description="Description CONTROLO DE CUSTOS" lcid="1033" guid="43cc0317-5fa1-465c-b170-092f9b0096ae" enable="true">
+              <LocalCustomProperties />
+              <Terms>
+                <Term Name="002.05.01  Assistência Económico/Financeira " Description="Description  Assistência Económico/Financeira " lcid="1033" guid="c895000d-52b7-4cb1-900a-e240b9b374f5" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.05.02  Despesas Directas" Description="Description  Despesas Directas" lcid="1033" guid="1e91e83f-a3c6-4a1e-8e2e-ad45bb4a69c8" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.05.03  Cabimentação" Description="Description  Cabimentação" lcid="1033" guid="05329ac2-c3fa-4852-bbef-3a50a76122b7" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.05.04  Alocação de Custos" Description="Description  Alocação de Custos" lcid="1033" guid="f79c5596-0558-44da-a83a-53b13c69634f" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.05.05  Autorizações de Despesas" Description="Description  Autorizações de Despesas" lcid="1033" guid="3649ba45-bc7b-46af-bf57-ecca7ed24030" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.05.06  Necessidades de Fundos" Description="Description  Necessidades de Fundos" lcid="1033" guid="cd0d538a-34ce-43ad-b2a2-4947fb8083d1" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.05.07  Fornecimento de Materiais e Serviços directos" Description="Description  Fornecimento de Materiais e Serviços directos" lcid="1033" guid="62482846-33e3-4787-bcde-152d8c767671" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.05.08  Relatórios" Description="Description  Relatórios" lcid="1033" guid="965890f7-3dc9-43e9-b099-39dd6d7b0ca9" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.05.09  Estudos" Description="Description  Estudos" lcid="1033" guid="70eba0ff-1508-44f4-a449-66527920ae28" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+              </Terms>
+            </Term>
+            <Term Name="002.06 FISCALIDADE" Description="Description FISCALIDADE" lcid="1033" guid="ce13746c-1653-46ef-bf03-63ed8a35ca2f" enable="true">
+              <LocalCustomProperties />
+              <Terms>
+                <Term Name="002.06.01  Inscrição Fiscal da Empresa " Description="Description  Inscrição Fiscal da Empresa " lcid="1033" guid="faba5a57-dbc0-4623-8e6c-e52d6c652cdb" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.06.02  Previsões Financeiras" Description="Description  Previsões Financeiras" lcid="1033" guid="a73b0cc1-d9e9-4828-a8e4-69933baf394a" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.06.03  Planos, Normas e Legislação" Description="Description  Planos, Normas e Legislação" lcid="1033" guid="7e39c626-f15c-46c1-9f48-bc77ebfa67c3" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.06.04  Estimativas" Description="Description  Estimativas" lcid="1033" guid="babe3c7f-c3d9-4cc5-a16d-d78b2170b6cb" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.06.05  Balanços" Description="Description  Balanços" lcid="1033" guid="6325e644-ceed-49b8-9823-3de7fc5bc106" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.06.06  Seguros" Description="Description  Seguros" lcid="1033" guid="a0c26156-77b6-4996-a017-fd5b93d414a3" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.06.07  Exportações " Description="Description  Exportações " lcid="1033" guid="a6177478-ef4a-4cef-b262-2a9e582e05d4" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.06.08  Impostos e taxas " Description="Description  Impostos e taxas " lcid="1033" guid="4cad8575-acd9-4805-aafd-8f72d51c3922" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.06.09  Estatísticas" Description="Description  Estatísticas" lcid="1033" guid="5227f8f8-a045-4859-8858-b128506259e7" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.06.10  Estudos e Pareceres Técnicos" Description="Description  Estudos e Pareceres Técnicos" lcid="1033" guid="fc9bf354-6c20-4f32-b45c-1ad5351c1867" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.06.11  Auditorias" Description="Description  Auditorias" lcid="1033" guid="b6c4358a-fa6d-46d1-a687-2a06cf436b3a" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+              </Terms>
+            </Term>
+            <Term Name="002.07 GESTÃO FINANCEIRA" Description="Description GESTÃO FINANCEIRA" lcid="1033" guid="4bd05711-e635-4846-ab97-53785f82e593" enable="true">
+              <LocalCustomProperties />
+              <Terms>
+                <Term Name="002.07.01  Análise e Estudos " Description="Description  Análise e Estudos " lcid="1033" guid="d80e526d-130d-4718-9b71-11a103973564" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.07.02  Gestão e Controlo de Investimentos" Description="Description  Gestão e Controlo de Investimentos" lcid="1033" guid="a9d6625d-4ca7-4c04-8a64-dbfa18eaa2e3" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.07.03  Execução dos Orçamentos das Participações" Description="Description  Execução dos Orçamentos das Participações" lcid="1033" guid="65877ae8-930c-4463-b0f9-2ea4e5ea6263" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.07.04  Reconciliações e Contabilização «billings» " Description="Description  Reconciliações e Contabilização «billings» " lcid="1033" guid="24a34bcc-e5e6-4d3d-bbc3-cf7ab1cc3648" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.07.05  Gestão e Utilização de Fundos" Description="Description  Gestão e Utilização de Fundos" lcid="1033" guid="fdbc9ac8-4968-435e-96c6-1ee4eee0f73c" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.07.06  Autorizações de Despesa " Description="Description  Autorizações de Despesa " lcid="1033" guid="60c28a70-efec-48c5-92bb-372e3f0bb0da" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.07.07  Base de Dados" Description="Description  Base de Dados" lcid="1033" guid="5afa6812-77e9-4de9-a2d9-f2b5f6233371" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+              </Terms>
+            </Term>
+            <Term Name="002.08 GESTÃO DO PATRIMÓNIO" Description="Description GESTÃO DO PATRIMÓNIO" lcid="1033" guid="a3fdb4ac-fcc2-453f-8b53-549ca657dfdb" enable="true">
+              <LocalCustomProperties />
+              <Terms>
+                <Term Name="002.08.01  Análise e Estudos " Description="Description  Análise e Estudos " lcid="1033" guid="0ec1fe45-5447-4540-b40e-50b789db32fa" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.08.02  Cadastro do Património" Description="Description  Cadastro do Património" lcid="1033" guid="4ddce60a-ba00-4e36-abba-ae790941fb45" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.08.03  Supervisão e Controlo" Description="Description  Supervisão e Controlo" lcid="1033" guid="7a98073d-7ef9-4109-801e-7919d882ab13" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.08.04  Gestão do Imobilizado Corpóreo" Description="Description  Gestão do Imobilizado Corpóreo" lcid="1033" guid="db97d0b8-55b5-4874-8144-37dec229e182" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.08.05  Investimento de Substituição/Manutenção " Description="Description  Investimento de Substituição/Manutenção " lcid="1033" guid="482cdf24-9f76-47cd-81f7-4ebe15450100" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.08.06  Reavaliações" Description="Description  Reavaliações" lcid="1033" guid="02c748e4-74e7-46e2-a094-7a8cdf08cc1c" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.08.07  Transferências" Description="Description  Transferências" lcid="1033" guid="2a6e3c14-2063-4a3c-82d6-ccc347de4495" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.08.08  Inventários e Abates do Património" Description="Description  Inventários e Abates do Património" lcid="1033" guid="8fa517fb-8f4f-4705-af47-aa763757c8b4" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.08.09  Regularizações" Description="Description  Regularizações" lcid="1033" guid="435dc534-4c7c-4a60-8625-5005ca488b2d" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.08.10  Activos Fixos" Description="Description  Activos Fixos" lcid="1033" guid="60bc5768-63bf-4efe-896a-905bcbb54b69" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.08.11  Amortizações e Reservas" Description="Description  Amortizações e Reservas" lcid="1033" guid="0ababa3b-8dcf-402b-bf40-5f1831fe42c4" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.08.11  Seguros e Sinistros" Description="Description  Seguros e Sinistros" lcid="1033" guid="0a536b86-4f7c-4d77-8231-e108ff290963" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+              </Terms>
+            </Term>
+            <Term Name="002.09 CONSERVAÇÃO E MANUTENÇÃO" Description="Description CONSERVAÇÃO E MANUTENÇÃO" lcid="1033" guid="b909c846-4db7-427d-8a23-a5747968d4af" enable="true">
+              <LocalCustomProperties />
+              <Terms>
+                <Term Name="002.09.01  Conservação" Description="Description  Conservação" lcid="1033" guid="db537b9e-65b3-410a-9142-470d243c009f" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+                <Term Name="002.09.02  Manutenção" Description="Description  Manutenção" lcid="1033" guid="2aae0807-c8a9-41f1-9427-f9ba66d673ea" enable="true">
+                  <LocalCustomProperties />
+                  <Terms />
+                </Term>
+              </Terms>
+            </Term>
+          </Terms>
+        </Term>
+      </TermSet>
+    </TaxonomyGroup>
+  </TermStore>
+</Taxonomy>

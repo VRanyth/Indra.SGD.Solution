@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Profiles>
+  <Profile Name="PCA" Description="Presidente do Conselho de Administração" Profile="Contribute" />
+  <Profile Name="ADM_AT" Description="Administrador Pelouro Área Técnica" Profile="Contribute" />
+  <Profile Name="ADM_AC" Description="Administrador Pelouro Área Comercial" Profile="Contribute" />
+  <Profile Name="ADM_DE" Description="Administrador Pelouro Desenvolvimento e Engenharia" Profile="Contribute" />
+  <Profile Name="ADM_AF" Description="Administrador Pelouro Área de Finanças" Profile="Contribute" />
+  <Profile Name="APCA" Description="Assessoria do PCA" Profile="Contribute" />
+  <Profile Name="GPCA" Description="Gabinete PCA" Profile="Contribute" />
+  <Profile Name="DG_DGAAC" Description="Director Geral-Direcção Geral Adjunta Área Comercial" Profile="Contribute" />
+  <Profile Name="SEC_DGAAC" Description="Secretariado-Direcção Geral Adjunta Área Comercial" Profile="Contribute" />
+  <Profile Name="GGS_DGAAC" Description="Gabinete de Gestão de Sistemas-Direcção Geral Adjunta Área Comercial" Profile="Contribute" />
+  <Profile Name="DC/MT_DGAAC" Description="Departamento de Clientes MT-Direcção Geral Adjunta Área Comercial" Profile="Contribute" />
+  <Profile Name="DCP_DGAAC" Description="Departamento de Controlo e Perdas-Direcção Geral Adjunta Área Comercial" Profile="Contribute" />
+  <Profile Name="SRD_DCP_DGAAC" Description="Sector de Recolha de Dados-Departamento de Controlo e Perdas-Direcção Geral Adjunta Área Comercial" Profile="Contribute" />
+  <Profile Name="STD_DCP_DGAAC" Description="Sector de Tratamento de Dados-Departamento de Controlo e Perdas-Direcção Geral Adjunta Área Comercial" Profile="Contribute" />
+  <Profile Name="UC1_DGAAC" Description="Unidade Comercial 1-Direcção Geral Adjunta Área Comercial" Profile="Contribute" />
+  <Profile Name="DFGC_UC1_DGAAC" Description="Departamento de Facturação e Gestão de Contas-Unidade Comercial 1-Direcção Geral Adjunta Área Comercial" Profile="Contribute" />
+  <Profile Name="SGT_UC1_DGAAC" Description="Sector de Gestão Técnica-Unidade Comercial 1-Direcção Geral Adjunta Área Comercial" Profile="Contribute" />
+  <Profile Name="SCV_UC1_DGAAC" Description="Sector de Canais de Vendas-Unidade Comercial 1-Direcção Geral Adjunta Área Comercial" Profile="Contribute" />
+  <Profile Name="UC2_DGAAC" Description="Unidade Comercial 2-Direcção Geral Adjunta Área Comercial" Profile="Contribute" />
+  <Profile Name="UC3_DGAAC" Description="Unidade Comercial 3-Direcção Geral Adjunta Área Comercial" Profile="Contribute" />
+  <Profile Name="UC4_DGAAC" Description="Unidade Comercial 4-Direcção Geral Adjunta Área Comercial" Profile="Contribute" />
+  <Profile Name="DG_DGAAT" Description="Director Geral- Direcção Geral Adjunta Área Técnica" Profile="Contribute" />
+  <Profile Name="SEC_DGAAT" Description="Secretariado- Direcção Geral Adjunta Área Técnica" Profile="Contribute" />
+  <Profile Name="DL_DGAAT" Description="Departamento Linhas- Direcção Geral Adjunta Área Técnica" Profile="Contribute" />
+  <Profile Name="DIR_DM/AT_DGAAT" Description="Director-Direcção de Manutenções de AT" Profile="Contribute" />
+  <Profile Name="BM/AT_DMAT_DGAAT" Description="Brigada de Manutenção AT-Direcção de Manutenções de AT-Direcção Geral Adjunta Área Técnica" Profile="Contribute" />
+  <Profile Name="LEM_DM/AT_DGAAT" Description="Laboratório de Ensaios e Medidas- Direcção de Manutenções de AT-Direcção Geral Adjunta Área Técnica" Profile="Contribute" />
+  <Profile Name="DIR_DO_DGAAT" Description="Director Direcção de Operações- Direcção Geral Adjunta Área Técnica" Profile="Contribute" />
+  <Profile Name="SEC_DO_DGAAT" Description="Secretariado Direcção de Operações- Direcção Geral Adjunta Área Técnica" Profile="Contribute" />
+  <Profile Name="DCR_DO_DGAAT" Description="Departamento de Condução de Redes-Direcção de Operações- Direcção Geral Adjunta Área Técnica" Profile="Contribute" />
+  <Profile Name="DPME_DO_DGAAT" Description="Departamento de Protecções de Medidas Eléctricas-Direcção de Operações- Direcção Geral Adjunta Área Técnica" Profile="Contribute" />
+  <Profile Name="NOR1_DO_DGAAT" Description="Núcleo de Operações Regionais 1-Direcção de Operações- Direcção Geral Adjunta Área Técnica" Profile="Contribute" />
+  <Profile Name="NOR2_DO_DGAAT" Description="Núcleo de Operações Regionais 2-Direcção de Operações- Direcção Geral Adjunta Área Técnica" Profile="Contribute" />
+  <Profile Name="NOR3_DO_DGAAT" Description="Núcleo de Operações Regionais 3-Direcção de Operações- Direcção Geral Adjunta Área Técnica" Profile="Contribute" />
+  <Profile Name="NOR4_DO_DGAAT" Description="Núcleo de Operações Regionais 4-Direcção de Operações- Direcção Geral Adjunta Área Técnica" Profile="Contribute" />
+  <Profile Name="GA_UM MT/BT_DGAAT" Description="Gabinete de Apoio-Unidades de Manutenção MT/BT- Direcção Geral Adjunta Área Técnica" Profile="Contribute" />
+  <Profile Name="UM MT/BT 1¬_DGAAT" Description="Unidades de Manutenção MT/BT 1- Direcção Geral Adjunta Área Técnica" Profile="Contribute" />
+  <Profile Name="BM/MT_UM MT/BT 1_DGAAT" Description="Brigada de Manutenção MT-Unidades de Manutenção MT/BT 1- Direcção Geral Adjunta Área Técnica" Profile="Contribute" />
+  <Profile Name="BM/BT_UM MT/BT 1_DGAAT" Description="Brigada de Manutenção BT-Unidades de Manutenção MT/BT 1- Direcção Geral Adjunta Área Técnica" Profile="Contribute" />
+  <Profile Name="UM MT/BT 2_DGAAT" Description="Unidades de Manutenção MT/BT 2- Direcção Geral Adjunta Área Técnica" Profile="Contribute" />
+  <Profile Name="UM MT/BT 3_DGAAT" Description="Unidades de Manutenção MT/BT 3- Direcção Geral Adjunta Área Técnica" Profile="Contribute" />
+  <Profile Name="UM MT/BT 4_DGAAT" Description="Unidades de Manutenção MT/BT 4- Direcção Geral Adjunta Área Técnica" Profile="Contribute" />
+  <Profile Name="DG_DGADE" Description="Director Geral-Direcção Geral Adjunta Desenvolvimento e Engenharia" Profile="Contribute" />
+  <Profile Name="SEC_DGADE" Description="Secretariado Direcção Geral Adjunta Desenvolvimento e Engenharia" Profile="Contribute" />
+  <Profile Name="DIR_DE_DGADE" Description="Director-Direcção de Engenharia-Direcção Geral Adjunta Desenvolvimento e Engenharia" Profile="Contribute" />
+  <Profile Name="SEC_DE_DGADE" Description="Secretariado-Direcção de Engenharia-Direcção Geral Adjunta Desenvolvimento e Engenharia" Profile="Contribute" />
+  <Profile Name="DPN_DGADE" Description="Departamento de Planeamento e Normalização-Direcção Geral Adjunta Desenvolvimento e Engenharia" Profile="Contribute" />
+  <Profile Name="GCSCO_DGADE" Description="Gabinete de Contratação de Serviços e Controlo Orçamental-Direcção Geral Adjunta Desenvolvimento e Engenharia" Profile="Contribute" />
+  <Profile Name="PI_DGADE" Description="Projectos de Investimento-Direcção Geral Adjunta Desenvolvimento e Engenharia" Profile="Contribute" />
+  <Profile Name="DG_DGAAF" Description="Director Geral-Direcção Geral Adjunta Área Finanças" Profile="Contribute" />
+  <Profile Name="SEC_DGAAF" Description="Secretariado Direcção Geral Adjunta Área de Finanças" Profile="Contribute" />
+  <Profile Name="DC_DGAAF" Description="Departamento de Contabilidade-DGAAF" Profile="Contribute" />
+  <Profile Name="DGF_DGAAF" Description="Departamento Gestão Financeira-DGAAF" Profile="Contribute" />
+  <Profile Name="SG_DGAAF" Description="Serviços Gerais-DGAAF" Profile="Contribute" />
+  <Profile Name="DP_DGAAF" Description="Departamento Património-DGAAF" Profile="Contribute" />
+  <Profile Name="SEC_G" Description="Secretaria Geral" Profile="Contribute" />
+  <Profile Name="DIR_DTI" Description="Director Direcção Tecnologias de Informação" Profile="Contribute" />
+  <Profile Name="SEC_DTI" Description="Secretariado Direcção Tecnologias de Informação" Profile="Contribute" />
+  <Profile Name="GPCIP_DTI" Description="Gabinete Planificação, Controlo e Informação de Projecto-DTI" Profile="Contribute" />
+  <Profile Name="GAS_DTI" Description="Gabinete Administração de SistemasDTI" Profile="Contribute" />
+  <Profile Name="SI_DTI" Description="Sector de InfraestruturasDTI" Profile="Contribute" />
+  <Profile Name="SOS_DTI" Description="Suporte aos Utilizadores-DTI" Profile="Contribute" />
+  <Profile Name="GJ" Description="Gabinete Jurídico" Profile="Contribute" />
+  <Profile Name="DCI" Description="Departamento Comunicação e Imagem" Profile="Contribute" />
+  <Profile Name="DF" Description="Departamento Fiscalização" Profile="Contribute" />
+  <Profile Name="DSE" Description="Departamento Segurança Empresarial" Profile="Contribute" />
+  <Profile Name="DET" Description="Departamento Equipamentos e Transportes" Profile="Contribute" />
+  <Profile Name="DA" Description="Departamento Aprovisionamentos" Profile="Contribute" />
+  <Profile Name="DPCE" Description="Departamento Planeamento e Controlo Estratégico" Profile="Contribute" />
+  <Profile Name="SEC_DRH" Description="Departamento Recursos Humanos" Profile="Contribute" />
+  <Profile Name="AP_DRH" Description="Administração Pessoal-DRH" Profile="Contribute" />
+  <Profile Name="FGP_DRH" Description="Formação e Gestão Provisional-DRH" Profile="Contribute" />
+  <Profile Name="PSHT_DRH" Description="Protecção, Segurança e Higiene do Trabalho-DRH" Profile="Contribute" />
+  <Profile Name="SAS" Description="Sector Apoio Social" Profile="Contribute" />
+  <Profile Name="GAI" Description="Gabinete Auditoria Interna" Profile="Contribute" />
+  <Profile Name="AS" Description="Administrador Sistema" Profile="Full Control" />
+  <Profile Name="ASL" Description="Administrador Listas" Profile="Edit" />
+</Profiles>

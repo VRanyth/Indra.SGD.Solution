@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="87bd04bc-a56b-43f7-bbca-621b65f65b8d" solutionId="87bd04bc-a56b-43f7-bbca-621b65f65b8d" resetWebServer="false" sharePointProductVersion="15.0" name="Indra.SGD.Assets" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="ded11205-2d57-41da-b35a-d05a35a51afc" />
+  </features>
+</package>

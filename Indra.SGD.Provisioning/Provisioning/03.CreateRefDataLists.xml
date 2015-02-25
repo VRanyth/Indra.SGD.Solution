@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Templates>
+
+    <Template Title="Entidades">
+		<Fields>
+			<Field Type="Text" DisplayName="Nome" Required="False" MaxLength="255" StaticName="Name" Name="Name" />
+			<Field Type="Text" DisplayName="Nif" Required="False" MaxLength="255" StaticName="Nif" Name="Nif" />
+		</Fields>
+		<DataRows>
+			<DataRow>	
+			</DataRow>
+		</DataRows>
+   </Template>
+   
+   <Template Title="TiposDocumentos">
+		<Fields>
+			<Field Type="Text" DisplayName="Descrição" Required="False" MaxLength="255" StaticName="IndraColumnTipoDescricao" Name="IndraColumnTipoDescricao" />	
+		</Fields>
+		<DataRows>
+			<DataRow>
+				<Fields>
+					<field key="Title" value="Totobola"/>
+					<field key="IndraColumnTipoDescricao" value="Descrição do Totobola"/>
+				</Fields>
+			</DataRow>
+			<DataRow>
+				<Fields>
+					<field key="Title" value="Euromilhões"/>
+					<field key="IndraColumnTipoDescricao" value="Descrição do Euromilhões"/>
+				</Fields>
+			</DataRow>
+		</DataRows>
+  </Template>
+   
+</Templates>

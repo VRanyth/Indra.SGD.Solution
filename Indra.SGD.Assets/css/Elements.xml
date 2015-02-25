@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="css" Url="Style Library" >
+    <File Path="css\Indra.SGD.Assets\main.css" Url="Indra/css/main.css" Type="GhostableInLibrary" IgnoreIfAlreadyExists="False" ReplaceContent="True" />
+    <File Path="css\Indra.SGD.Assets\jquery-ui.css" Url="Indra/css/jquery-ui.css" Type="GhostableInLibrary" IgnoreIfAlreadyExists="False" ReplaceContent="True" />
+  </Module>
+</Elements>

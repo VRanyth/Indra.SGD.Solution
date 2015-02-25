@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="images" Url="Style Library">
+    <File Path="images\Indra.SGD.Assets\loader.gif" Url="Indra/Images/loader.gif" Type="GhostableInLibrary" IgnoreIfAlreadyExists="False" ReplaceContent="True"/>
+  </Module>
+</Elements>
+

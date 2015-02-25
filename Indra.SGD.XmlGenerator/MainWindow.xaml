@@ -1,0 +1,20 @@
+﻿<Window x:Class="Indra.SGD.XmlGenerator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel Margin="10">
+            <DockPanel VerticalAlignment="Top" Margin="0,5">
+                <Button DockPanel.Dock="Right" Content="Browse..." Margin="10,0" Click="Button_Click_1"/>
+                <Border BorderThickness="1" BorderBrush="Gray">
+                    <TextBlock Name="txtDiretorio"/>
+                </Border>
+            </DockPanel>
+            <Button Content="Generate XML Folder Structure" Click="Button_Click"/>
+            <Button Content="Generate XML Taxonomy Structure" Click="Button_Click_2"/>
+            <Button Content="Generate XML Profile Structure" Click="Button_Click_4"/>
+
+            <Button Content="New Guid" Click="Button_Click_3"/>
+        </StackPanel>
+    </Grid>
+</Window>

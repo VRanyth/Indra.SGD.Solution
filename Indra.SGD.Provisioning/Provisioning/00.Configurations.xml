@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<indraconfiguration>
+  <enable>1</enable>
+  <serviceapplications>
+    <ManagedMetadata title="Managed Metadata Service" value="Managed Metadata Service" />
+    <Search title="Search Service" value="Search Service" />
+  </serviceapplications>
+
+  <webappvariables>
+    <WebAppName title='Web App Name' value='IndraSites' />
+    <WebAppPort title='Web App Port' value='80' />
+    <WebAppHostHeader title='Web App Host Header' value='http://win-f53p1cm8b69/sites/edel.document-center.dev' />
+    <URL title='Url' value='http://win-f53p1cm8b69/sites/edel.document-center.dev' />  
+    <OwnerLogin title='Web App Owner Login' value='indralocal\Administrator' />
+    <OwnerEmail title='Web App Owner Email' value='mail@mail.pt' />
+    <WebAppDatabaseServerInstance title='Database Server Instance' value='WIN-F53P1CM8B69' />
+	<TermStoreGroup title='Term Store Group' value='Indra SGD Document Center' />
+  </webappvariables>
+  
+   <sandboxedsolutions>
+      <sandboxed1 enable='1' title='Indra.SGD.Assets.wsp' value='C:\Indra\SGD Solution Packages\Indra.SGD.Assets.wsp' />
+    </sandboxedsolutions>
+
+    <farmsolutions>
+      <farm1 enable='1' title='Indra.SGD.CustomControls.wsp' value='C:\Indra\SGD Solution Packages\Indra.SGD.CustomControls.wsp' />
+      <farm2 enable='0' title='Indra.SGD.Main.wsp' value='C:\Indra\SGD Solution Packages\Indra.SGD.Main.wsp' />
+    </farmsolutions>
+
+</indraconfiguration>

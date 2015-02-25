@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Structure>
+<Folders>
+  <Folder Name="DGAAC" Description="Descrição DGAAC" />
+  <Folder Name="DGAAT" Description="Descrição DGAAT" />
+  <Folder Name="DO" Description="Descrição DO" />
+  <Folder Name="DGADE" Description="Descrição DGADE" />
+  <Folder Name="DE" Description="Descrição DE" />
+  <Folder Name="DGAAF" Description="Descrição DGAAF" />
+  <Folder Name="SEC_G" Description="Descrição SEC_G" />
+  <Folder Name="APCA" Description="Descrição APCA" />
+  <Folder Name="GAI" Description="Descrição GAI" />
+  <Folder Name="DPCE" Description="Descrição DPCE" />
+  <Folder Name="DRH" Description="Descrição DRH" />
+  <Folder Name="SAS" Description="Descrição SAS" />
+  <Folder Name="DTI" Description="Descrição DTI" />
+  <Folder Name="GJ" Description="Descrição GJ" />
+  <Folder Name="DCI" Description="Descrição DCI" />
+  <Folder Name="GPCA" Description="Descrição GPCA" />
+  <Folder Name="DF" Description="Descrição DF" />
+  <Folder Name="DSE" Description="Descrição DSE" />
+  <Folder Name="DET" Description="Descrição DET" />
+  <Folder Name="DA" Description="Descrição DA" />
+  <Folder Name="Divulgação" Description="Descrição Divulgação" />
+  <Folder Name="Partilha" Description="Descrição Partilha">
+    <Folders>
+      <Folder Name="DGAAT_DGAAC" Description="Descrição Partilha DGAAT_DGAAC/1,3,8,9,22,23" />
+      <Folder Name="DO_DGAAC" Description="Descrição Partilha DO_DGAAC/1,3,8,9,28,29" />
+      <Folder Name="DGADE_DGAAC" Description="Descrição Partilha DGADE_DGAAC/1,3,8,9,43,44" />
+      <Folder Name="DE_DGAAC" Description="Descrição Partilha DE_DGAAC/1,3,8,9,45,46" />
+      <Folder Name="DGAAF_DGAAC" Description="Descrição Partilha DGAAF_DGAAC/1,3,8,9" />
+      <Folder Name="SEC_G_DGAAC" Description="Descrição Partilha SEC_G_DGAAC/1,3,8,9,56" />
+      <Folder Name="APCA_DGAAC" Description="Descrição Partilha APCA_DGAAC/1,3,6,8,9" />
+      <Folder Name="GAI_DGAAC" Description="Descrição Partilha GAI_DGAAC/1,3,8,9,75" />
+      <Folder Name="DPCE_DGAAC" Description="Descrição Partilha DPCE_DGAAC/1,3,8,9,69" />
+      <Folder Name="DRH_DGAAC" Description="Descrição Partilha DRH_DGAAC/1,3,8,9,70" />
+      <Folder Name="SAS_DGAAC" Description="Descrição Partilha SAS_DGAAC/1,3,8,9,74" />
+      <Folder Name="DTI_DGAAC" Description="Descrição Partilha DTI_DGAAC/1,3,8,9,57,58" />
+      <Folder Name="GJ_DGAAC" Description="Descrição Partilha GJ_DGAAC/1,3,8,9,63" />
+      <Folder Name="DCI_DGAAC" Description="Descrição Partilha DCI_DGAAC/1,3,8,9,64" />
+      <Folder Name="GPCA_DGAAC" Description="Descrição Partilha GPCA_DGAAC/1,3,8,9,7" />
+      <Folder Name="DF_DGAAC" Description="Descrição Partilha DF_DGAAC/1,3,8,9,65" />
+      <Folder Name="DSE_DGAAC" Description="Descrição Partilha DSE_DGAAC/1,3,8,9,66" />
+      <Folder Name="DET_DGAAC" Description="Descrição Partilha DET_DGAAC/1,3,8,9,67" />
+      <Folder Name="DA_DGAAC" Description="Descrição Partilha DA_DGAAC/1,3,8,9,68" />
+      <Folder Name="DGAAC_DGAAT" Description="Descrição Partilha DGAAC_DGAAT/1,2,8,9,22,23 " />
+      <Folder Name="DO_DGAAT" Description="Descrição Partilha DO_DGAAT/1,2,22,23 " />
+      <Folder Name="DGADE_DGAAT" Description="Descrição Partilha DGADE_DGAAT/1,2,22,23,43,44 " />
+      <Folder Name="DE_DGAAT" Description="Descrição Partilha DE_DGAAT/1,2,22,23,45,46 " />
+      <Folder Name="DGAAF_DGAAT" Description="Descrição Partilha DGAAF_DGAAT/1,2,22,23 " />
+      <Folder Name="SEC_G_DGAAT" Description="Descrição Partilha SEC_G_DGAAT/1,2,22,23,56 " />
+      <Folder Name="APCA_DGAAT" Description="Descrição Partilha APCA_DGAAT/1,2,6,22,23 " />
+      <Folder Name="GAI_DGAAT" Description="Descrição Partilha GAI_DGAAT/1,2,22,23,75 " />
+      <Folder Name="DPCE_DGAAT" Description="Descrição Partilha DPCE_DGAAT/1,2,22,23,69 " />
+      <Folder Name="DRH_DGAAT" Description="Descrição Partilha DRH_DGAAT/1,2,22,23,70 " />
+      <Folder Name="SAS_DGAAT" Description="Descrição Partilha SAS_DGAAT/1,2,22,23,74 " />
+      <Folder Name="DTI_DGAAT" Description="Descrição Partilha DTI_DGAAT/1,2,22,23,57,58 " />
+      <Folder Name="GJ_DGAAT" Description="Descrição Partilha GJ_DGAAT/1,2,22,23,63 " />
+      <Folder Name="DCI_DGAAT" Description="Descrição Partilha DCI_DGAAT/1,2,22,23,64 " />
+      <Folder Name="GPCA_DGAAT" Description="Descrição Partilha GPCA_DGAAT/1,2,22,23,7 " />
+      <Folder Name="DF_DGAAT" Description="Descrição Partilha DF_DGAAT/1,2,22,23,65 " />
+      <Folder Name="DSE_DGAAT" Description="Descrição Partilha DSE_DGAAT/1,2,22,23,66 " />
+      <Folder Name="DET_DGAAT" Description="Descrição Partilha DET_DGAAT/1,2,22,23,67 " />
+      <Folder Name="DA_DGAAT" Description="Descrição Partilha DA_DGAAT/1,2,22,23,68 " />
+      <Folder Name="DGAAC_DO" Description="Descrição Partilha DGAAC_DO/1,3,8,922,23,28,29" />
+      <Folder Name="DGAAT_DO" Description="Descrição Partilha DGAAT_DO/1,3,22,23,28,29" />
+      <Folder Name="DGADE_DO" Description="Descrição Partilha DGADE_DO/1,3,22,23,28,2943,44" />
+      <Folder Name="DE_DO" Description="Descrição Partilha DE_DO/1,3,22,23,28,29" />
+      <Folder Name="DGAAF_DO5,46" Description="Descrição Partilha DGAAF_DO5,46" />
+      <Folder Name="SEC_G_DO" Description="Descrição Partilha SEC_G_DO/1,3,22,23,28,29,56" />
+      <Folder Name="APCA_DO" Description="Descrição Partilha APCA_DO/1,3,6,22,23,28,29" />
+      <Folder Name="GAI_DO" Description="Descrição Partilha GAI_DO/1,3,22,23,28,29,75" />
+      <Folder Name="DPCE_DO" Description="Descrição Partilha DPCE_DO/1,3,22,23,28,29,69" />
+      <Folder Name="DRH_DO" Description="Descrição Partilha DRH_DO/1,3,22,23,28,29,70" />
+      <Folder Name="SAS_DO" Description="Descrição Partilha SAS_DO/1,3,22,23,28,29,74" />
+      <Folder Name="DTI_DO" Description="Descrição Partilha DTI_DO/1,3,22,23,28,29,57,58" />
+      <Folder Name="GJ_DO" Description="Descrição Partilha GJ_DO/1,3,22,23,28,29,63" />
+      <Folder Name="DCI_DO" Description="Descrição Partilha DCI_DO/1,3,22,23,28,29,64" />
+      <Folder Name="GPCA_DO" Description="Descrição Partilha GPCA_DO/1,3,22,23,28,29,7" />
+      <Folder Name="DF_DO" Description="Descrição Partilha DF_DO/1,3,22,23,28,29,65" />
+      <Folder Name="DSE_DO" Description="Descrição Partilha DSE_DO/1,3,22,23,28,29,66" />
+      <Folder Name="DET_DO" Description="Descrição Partilha DET_DO/1,3,22,23,28,29,67" />
+      <Folder Name="DA_DO" Description="Descrição Partilha DA_DO/1,3,22,23,28,29,68" />
+      <Folder Name="DGAAC_DGADE" Description="Descrição Partilha DGAAC_DGADE/1,4,8,9,43,44" />
+      <Folder Name="DGAAT_DGADE" Description="Descrição Partilha DGAAT_DGADE/1,4,22,23,43,44" />
+      <Folder Name="DO_DGADE" Description="Descrição Partilha DO_DGADE/1,4,28,29,43,44" />
+      <Folder Name="DE_DGADE" Description="Descrição Partilha DE_DGADE/1,4,43,44" />
+      <Folder Name="DGAAF_DGADE" Description="Descrição Partilha DGAAF_DGADE/1,4,43,44,45,46" />
+      <Folder Name="SEC_G_DGADE" Description="Descrição Partilha SEC_G_DGADE/1,4,43,44,56" />
+      <Folder Name="APCA_DGADE" Description="Descrição Partilha APCA_DGADE/1,4,6,43,44" />
+      <Folder Name="GAI_DGADE" Description="Descrição Partilha GAI_DGADE/1,4,43,44,75" />
+      <Folder Name="DPCE_DGADE" Description="Descrição Partilha DPCE_DGADE/1,4,43,44,69" />
+      <Folder Name="DRH_DGADE" Description="Descrição Partilha DRH_DGADE/1,4,43,44,70" />
+      <Folder Name="SAS_DGADE" Description="Descrição Partilha SAS_DGADE/1,4,43,44,74" />
+      <Folder Name="DTI_DGADE" Description="Descrição Partilha DTI_DGADE/1,4,43,44,57,58" />
+      <Folder Name="GJ_DGADE" Description="Descrição Partilha GJ_DGADE/1,4,43,44,63" />
+      <Folder Name="DCI_DGADE" Description="Descrição Partilha DCI_DGADE/1,4,43,44,64" />
+      <Folder Name="GPCA_DGADE" Description="Descrição Partilha GPCA_DGADE/1,4,43,44,7" />
+      <Folder Name="DF_DGADE" Description="Descrição Partilha DF_DGADE/1,4,43,44,65" />
+      <Folder Name="DSE_DGADE" Description="Descrição Partilha DSE_DGADE/1,4,43,44,66" />
+      <Folder Name="DET_DGADE" Description="Descrição Partilha DET_DGADE/1,4,43,44,67" />
+      <Folder Name="DA_DGADE" Description="Descrição Partilha DA_DGADE/1,4,43,44,68" />
+      <Folder Name="DGAAC_DE" Description="Descrição Partilha DGAAC_DE/1,3,8,9,43,44,45,46" />
+      <Folder Name="DGAAT_DE" Description="Descrição Partilha DGAAT_DE/1,3,22,23,43,44,45,46" />
+      <Folder Name="DO_DE" Description="Descrição Partilha DO_DE/1,3,28,29,43,44,45,46" />
+      <Folder Name="DGADE_DE" Description="Descrição Partilha DGADE_DE/1,3,43,44,45,46" />
+      <Folder Name="DGAAF_DE" Description="Descrição Partilha DGAAF_DE/1,3,43,44,45,46" />
+      <Folder Name="SEC_G_DE" Description="Descrição Partilha SEC_G_DE/1,3,43,44,45,46,56" />
+      <Folder Name="APCA_DE" Description="Descrição Partilha APCA_DE/1,3,6,43,44,45,46" />
+      <Folder Name="GAI_DE" Description="Descrição Partilha GAI_DE/1,3,43,44,45,46,75" />
+      <Folder Name="DPCE_DE" Description="Descrição Partilha DPCE_DE/1,3,43,44,45,46,69" />
+      <Folder Name="DRH_DE" Description="Descrição Partilha DRH_DE/1,3,43,44,45,46,70" />
+      <Folder Name="SAS_DE" Description="Descrição Partilha SAS_DE/1,3,43,44,45,46,74" />
+      <Folder Name="DTI_DE" Description="Descrição Partilha DTI_DE/1,3,43,44,45,46,57,58" />
+      <Folder Name="GJ_DE" Description="Descrição Partilha GJ_DE/1,3,43,44,45,46,63" />
+      <Folder Name="DCI_DE" Description="Descrição Partilha DCI_DE/1,3,43,44,45,46,64" />
+      <Folder Name="GPCA_DE" Description="Descrição Partilha GPCA_DE/1,3,43,44,45,46,7" />
+      <Folder Name="DF_DE" Description="Descrição Partilha DF_DE/1,3,43,44,45,46,65" />
+      <Folder Name="DSE_DE" Description="Descrição Partilha DSE_DE/1,3,43,44,45,46,66" />
+      <Folder Name="DET_DE" Description="Descrição Partilha DET_DE/1,3,43,44,45,46,67" />
+      <Folder Name="DA_DE" Description="Descrição Partilha DA_DE/1,3,43,44,45,46,68" />
+      <Folder Name="DGAAC_DGAAF" Description="Descrição Partilha DGAAC_DGAAF/1,5,8,9,50,51" />
+      <Folder Name="DGAAT_DGAAF" Description="Descrição Partilha DGAAT_DGAAF/1,5,22,23,50,51" />
+      <Folder Name="DO_DGAAF" Description="Descrição Partilha DO_DGAAF/1,5,28,29,50,51" />
+      <Folder Name="DGADE_DGAAF" Description="Descrição Partilha DGADE_DGAAF/1,5,43,44,50,51" />
+      <Folder Name="DE_DGAAF" Description="Descrição Partilha DE_DGAAF/1,5,50,51" />
+      <Folder Name="SEC_G_DGAAF" Description="Descrição Partilha SEC_G_DGAAF/1,5,50,51,56" />
+      <Folder Name="APCA_DGAAF" Description="Descrição Partilha APCA_DGAAF/1,5,6,50,51" />
+      <Folder Name="GAI_DGAAF" Description="Descrição Partilha GAI_DGAAF/1,5,50,51,75" />
+      <Folder Name="DPCE_DGAAF" Description="Descrição Partilha DPCE_DGAAF/1,5,50,51,69" />
+      <Folder Name="DRH_DGAAF" Description="Descrição Partilha DRH_DGAAF/1,5,50,51,70" />
+      <Folder Name="SAS_DGAAF" Description="Descrição Partilha SAS_DGAAF/1,5,50,51,74" />
+      <Folder Name="DTI_DGAAF" Description="Descrição Partilha DTI_DGAAF/1,5,50,51,57,58" />
+      <Folder Name="GJ_DGAAF" Description="Descrição Partilha GJ_DGAAF/1,5,50,51,63" />
+      <Folder Name="DCI_DGAAF" Description="Descrição Partilha DCI_DGAAF/1,5,50,51,64" />
+      <Folder Name="GPCA_DGAAF" Description="Descrição Partilha GPCA_DGAAF/1,5,50,51,7" />
+      <Folder Name="DF_DGAAF" Description="Descrição Partilha DF_DGAAF/1,5,50,51,65" />
+      <Folder Name="DSE_DGAAF" Description="Descrição Partilha DSE_DGAAF/1,5,50,51,66" />
+      <Folder Name="DET_DGAAF" Description="Descrição Partilha DET_DGAAF/1,5,50,51,67" />
+      <Folder Name="DA_DGAAF" Description="Descrição Partilha DA_DGAAF/1,5,50,51,68" />
+      <Folder Name="DGAAC_SEC_G" Description="Descrição Partilha DGAAC_SEC_G/1,3,8,9,56" />
+      <Folder Name="DGAAT_SEC_G" Description="Descrição Partilha DGAAT_SEC_G/1,3,22,23,56" />
+      <Folder Name="DO_SEC_G" Description="Descrição Partilha DO_SEC_G/1,3,28,29,56" />
+      <Folder Name="DGADE_SEC_G" Description="Descrição Partilha DGADE_SEC_G/1,3,43,44,56" />
+      <Folder Name="DE_SEC_G" Description="Descrição Partilha DE_SEC_G/1,3,56" />
+      <Folder Name="DGAAF_SEC_G" Description="Descrição Partilha DGAAF_SEC_G/1,3,45,46,56" />
+      <Folder Name="APCA_SEC_G" Description="Descrição Partilha APCA_SEC_G/1,3,6,56" />
+      <Folder Name="GAI_SEC_G" Description="Descrição Partilha GAI_SEC_G/1,3,56,75" />
+      <Folder Name="DPCE_SEC_G" Description="Descrição Partilha DPCE_SEC_G/1,3,56,69" />
+      <Folder Name="DRH_SEC_G" Description="Descrição Partilha DRH_SEC_G/1,3,56,70" />
+      <Folder Name="SAS_SEC_G" Description="Descrição Partilha SAS_SEC_G/1,3,56,74" />
+      <Folder Name="DTI_SEC_G" Description="Descrição Partilha DTI_SEC_G/1,3,56,57,58" />
+      <Folder Name="GJ_SEC_G" Description="Descrição Partilha GJ_SEC_G/1,3,56,63" />
+      <Folder Name="DCI_SEC_G" Description="Descrição Partilha DCI_SEC_G/1,3,56,64" />
+      <Folder Name="GPCA_SEC_G" Description="Descrição Partilha GPCA_SEC_G/1,3,56,7" />
+      <Folder Name="DF_SEC_G" Description="Descrição Partilha DF_SEC_G/1,3,56,65" />
+      <Folder Name="DSE_SEC_G" Description="Descrição Partilha DSE_SEC_G/1,3,56,66" />
+      <Folder Name="DET_SEC_G" Description="Descrição Partilha DET_SEC_G/1,3,56,67" />
+      <Folder Name="DA_SEC_G" Description="Descrição Partilha DA_SEC_G/1,3,56,68" />
+      <Folder Name="DGAAC_APCA" Description="Descrição Partilha DGAAC_APCA/1,3,6,8,9" />
+      <Folder Name="DGAAT_APCA" Description="Descrição Partilha DGAAT_APCA/1,3,6,22,23" />
+      <Folder Name="DO_APCA" Description="Descrição Partilha DO_APCA/1,3,6,28,29," />
+      <Folder Name="DGADE_APCA" Description="Descrição Partilha DGADE_APCA/1,3,6,43,44" />
+      <Folder Name="DE_APCA" Description="Descrição Partilha DE_APCA/1,3,6" />
+      <Folder Name="DGAAF_APCA" Description="Descrição Partilha DGAAF_APCA/1,3,6,45,46" />
+      <Folder Name="SEC_G_APCA" Description="Descrição Partilha SEC_G_APCA/1,3,6,56" />
+      <Folder Name="GAI_APCA" Description="Descrição Partilha GAI_APCA/1,3,6,75" />
+      <Folder Name="DPCE_APCA" Description="Descrição Partilha DPCE_APCA/1,3,6,69" />
+      <Folder Name="DRH_APCA" Description="Descrição Partilha DRH_APCA/1,3,6,70" />
+      <Folder Name="SAS_APCA" Description="Descrição Partilha SAS_APCA/1,3,6,74" />
+      <Folder Name="DTI_APCA" Description="Descrição Partilha DTI_APCA/1,3,6,57,58" />
+      <Folder Name="GJ_APCA" Description="Descrição Partilha GJ_APCA/1,3,6,63" />
+      <Folder Name="DCI_APCA" Description="Descrição Partilha DCI_APCA/1,3,6,64" />
+      <Folder Name="GPCA_APCA" Description="Descrição Partilha GPCA_APCA/1,3,6,7" />
+      <Folder Name="DF_APCA" Description="Descrição Partilha DF_APCA/1,3,6,65" />
+      <Folder Name="DSE_APCA" Description="Descrição Partilha DSE_APCA/1,3,6,66" />
+      <Folder Name="DET_APCA" Description="Descrição Partilha DET_APCA/1,3,6,67" />
+      <Folder Name="DA_APCA" Description="Descrição Partilha DA_APCA/1,3,6,68" />
+      <Folder Name="DGAAC_GAI" Description="Descrição Partilha DGAAC_GAI/1,3,8,9,75" />
+      <Folder Name="DGAAT_GAI" Description="Descrição Partilha DGAAT_GAI/1,3,22,23,75" />
+      <Folder Name="DO_GAI" Description="Descrição Partilha DO_GAI/1,3,28,29,75" />
+      <Folder Name="DGADE_GAI" Description="Descrição Partilha DGADE_GAI/1,3,43,44,75" />
+      <Folder Name="DE_GAI" Description="Descrição Partilha DE_GAI/1,3,75" />
+      <Folder Name="DGAAF_GAI" Description="Descrição Partilha DGAAF_GAI/1,3,45,46,75" />
+      <Folder Name="SEC_G_GAI" Description="Descrição Partilha SEC_G_GAI/1,3,56,75" />
+      <Folder Name="APCA_GAI" Description="Descrição Partilha APCA_GAI/1,3,6,75" />
+      <Folder Name="DPCE_GAI" Description="Descrição Partilha DPCE_GAI/1,3,75,69" />
+      <Folder Name="DRH_GAI" Description="Descrição Partilha DRH_GAI/1,3,75,70" />
+      <Folder Name="SAS_GAI" Description="Descrição Partilha SAS_GAI/1,3,75,74" />
+      <Folder Name="DTI_GAI" Description="Descrição Partilha DTI_GAI/1,3,75,57,58" />
+      <Folder Name="GJ_GAI" Description="Descrição Partilha GJ_GAI/1,3,75,63" />
+      <Folder Name="DCI_GAI" Description="Descrição Partilha DCI_GAI/1,3,75,64" />
+      <Folder Name="GPCA_GAI" Description="Descrição Partilha GPCA_GAI/1,3,75,7" />
+      <Folder Name="DF_GAI" Description="Descrição Partilha DF_GAI/1,3,75,65" />
+      <Folder Name="DSE_GAI" Description="Descrição Partilha DSE_GAI/1,3,75,66" />
+      <Folder Name="DET_GAI" Description="Descrição Partilha DET_GAI/1,3,75,67" />
+      <Folder Name="DA_GAI" Description="Descrição Partilha DA_GAI/1,3,75,68" />
+      <Folder Name="DGAAC_DPCE" Description="Descrição Partilha DGAAC_DPCE/1,3,8,9,69" />
+      <Folder Name="DGAAT_DPCE" Description="Descrição Partilha DGAAT_DPCE/1,3,22,23,69" />
+      <Folder Name="DO_DPCE" Description="Descrição Partilha DO_DPCE/1,3,28,29,69" />
+      <Folder Name="DGADE_DPCE" Description="Descrição Partilha DGADE_DPCE/1,3,43,44,69" />
+      <Folder Name="DE_DPCE" Description="Descrição Partilha DE_DPCE/1,3,69" />
+      <Folder Name="DGAAF_DPCE" Description="Descrição Partilha DGAAF_DPCE/1,3,45,46,69" />
+      <Folder Name="SEC_G_DPCE" Description="Descrição Partilha SEC_G_DPCE/1,3,56,69" />
+      <Folder Name="APCA_DPCE" Description="Descrição Partilha APCA_DPCE/1,3,6,69" />
+      <Folder Name="GAI_DPCE" Description="Descrição Partilha GAI_DPCE/1,3,69,75" />
+      <Folder Name="DRH_DPCE" Description="Descrição Partilha DRH_DPCE/1,3,69,70" />
+      <Folder Name="SAS_DPCE" Description="Descrição Partilha SAS_DPCE/1,3,69,74" />
+      <Folder Name="DTI_DPCE" Description="Descrição Partilha DTI_DPCE/1,3,69,57,58" />
+      <Folder Name="GJ_DPCE" Description="Descrição Partilha GJ_DPCE/1,3,69,63" />
+      <Folder Name="DCI_DPCE" Description="Descrição Partilha DCI_DPCE/1,3,69,64" />
+      <Folder Name="GPCA_DPCE" Description="Descrição Partilha GPCA_DPCE/1,3,69,7" />
+      <Folder Name="DF_DPCE" Description="Descrição Partilha DF_DPCE/1,3,69,65" />
+      <Folder Name="DSE_DPCE" Description="Descrição Partilha DSE_DPCE/1,3,69,66" />
+      <Folder Name="DET_DPCE" Description="Descrição Partilha DET_DPCE/1,3,69,67" />
+      <Folder Name="DA_DPCE" Description="Descrição Partilha DA_DPCE/1,3,69,68" />
+      <Folder Name="DGAAC_DRH" Description="Descrição Partilha DGAAC_DRH/1,3,8,9,70" />
+      <Folder Name="DGAAT_DRH" Description="Descrição Partilha DGAAT_DRH/1,3,22,23,70" />
+      <Folder Name="DO_DRH" Description="Descrição Partilha DO_DRH/1,3,28,29,70" />
+      <Folder Name="DGADE_DRH" Description="Descrição Partilha DGADE_DRH/1,3,43,44,70" />
+      <Folder Name="DE_DRH" Description="Descrição Partilha DE_DRH/1,3,70" />
+      <Folder Name="DGAAF_DRH" Description="Descrição Partilha DGAAF_DRH/1,3,45,46,70" />
+      <Folder Name="SEC_G_DRH" Description="Descrição Partilha SEC_G_DRH/1,3,56,70" />
+      <Folder Name="APCA_DRH" Description="Descrição Partilha APCA_DRH/1,3,6,70" />
+      <Folder Name="GAI_DRH" Description="Descrição Partilha GAI_DRH/1,3,70,75" />
+      <Folder Name="DPCE_DRH" Description="Descrição Partilha DPCE_DRH/1,3,70,69" />
+      <Folder Name="SAS_DRH" Description="Descrição Partilha SAS_DRH/1,3,70,74" />
+      <Folder Name="DTI_DRH" Description="Descrição Partilha DTI_DRH/1,3,70,57,58" />
+      <Folder Name="GJ_DRH" Description="Descrição Partilha GJ_DRH/1,3,70,63" />
+      <Folder Name="DCI_DRH" Description="Descrição Partilha DCI_DRH/1,3,70,64" />
+      <Folder Name="GPCA_DRH" Description="Descrição Partilha GPCA_DRH/1,3,70,7" />
+      <Folder Name="DF_DRH" Description="Descrição Partilha DF_DRH/1,3,70,65" />
+      <Folder Name="DSE_DRH" Description="Descrição Partilha DSE_DRH/1,3,70,66" />
+      <Folder Name="DET_DRH" Description="Descrição Partilha DET_DRH/1,3,70,67" />
+      <Folder Name="DA_DRH" Description="Descrição Partilha DA_DRH/1,3,70,68" />
+      <Folder Name="DGAAC_SAS" Description="Descrição Partilha DGAAC_SAS/1,3,8,9,74" />
+      <Folder Name="DGAAT_SAS" Description="Descrição Partilha DGAAT_SAS/1,3,22,23,74" />
+      <Folder Name="DO_SAS" Description="Descrição Partilha DO_SAS/1,3,28,29,74" />
+      <Folder Name="DGADE_SAS" Description="Descrição Partilha DGADE_SAS/1,3,43,44,74" />
+      <Folder Name="DE_SAS" Description="Descrição Partilha DE_SAS/1,3,74" />
+      <Folder Name="DGAAF_SAS" Description="Descrição Partilha DGAAF_SAS/1,3,45,46,74" />
+      <Folder Name="SEC_G_SAS" Description="Descrição Partilha SEC_G_SAS/1,3,56,74" />
+      <Folder Name="APCA_SAS" Description="Descrição Partilha APCA_SAS/1,3,6,74" />
+      <Folder Name="GAI_SAS" Description="Descrição Partilha GAI_SAS/1,3,74,75" />
+      <Folder Name="DPCE_SAS" Description="Descrição Partilha DPCE_SAS/1,3,74,69" />
+      <Folder Name="DRH_SAS" Description="Descrição Partilha DRH_SAS/1,3,74,70" />
+      <Folder Name="DTI_SAS" Description="Descrição Partilha DTI_SAS/1,3,74,57,58" />
+      <Folder Name="GJ_SAS" Description="Descrição Partilha GJ_SAS/1,3,74,63" />
+      <Folder Name="DCI_SAS" Description="Descrição Partilha DCI_SAS/1,3,74,64" />
+      <Folder Name="GPCA_SAS" Description="Descrição Partilha GPCA_SAS/1,3,74,7" />
+      <Folder Name="DF_SAS" Description="Descrição Partilha DF_SAS/1,3,74,65" />
+      <Folder Name="DSE_SAS" Description="Descrição Partilha DSE_SAS/1,3,74,66" />
+      <Folder Name="DET_SAS" Description="Descrição Partilha DET_SAS/1,3,74,67" />
+      <Folder Name="DA_SAS" Description="Descrição Partilha DA_SAS/1,3,74,68" />
+      <Folder Name="DGAAC_DTI" Description="Descrição Partilha DGAAC_DTI/1,3,8,9,57,58" />
+      <Folder Name="DGAAT_DTI" Description="Descrição Partilha DGAAT_DTI/1,3,22,23,57,58" />
+      <Folder Name="DO_DTI" Description="Descrição Partilha DO_DTI/1,3,28,29,57,58" />
+      <Folder Name="DGADE_DTI" Description="Descrição Partilha DGADE_DTI/1,3,43,44,57,58" />
+      <Folder Name="DE_DTI" Description="Descrição Partilha DE_DTI/1,3,57,58" />
+      <Folder Name="DGAAF_DTI" Description="Descrição Partilha DGAAF_DTI/1,3,45,46,57,58" />
+      <Folder Name="SEC_G_DTI" Description="Descrição Partilha SEC_G_DTI/1,3,56,57,58" />
+      <Folder Name="APCA_DTI" Description="Descrição Partilha APCA_DTI/1,3,6,57,58" />
+      <Folder Name="GAI_DTI" Description="Descrição Partilha GAI_DTI/1,3,57,58,75" />
+      <Folder Name="DPCE_DTI" Description="Descrição Partilha DPCE_DTI/1,3,57,58,69" />
+      <Folder Name="DRH_DTI" Description="Descrição Partilha DRH_DTI/1,3,57,58,70" />
+      <Folder Name="SAS_DTI" Description="Descrição Partilha SAS_DTI/1,3,57,58,74" />
+      <Folder Name="GJ_DTI" Description="Descrição Partilha GJ_DTI/1,3,57,58,63" />
+      <Folder Name="DCI_DTI" Description="Descrição Partilha DCI_DTI/1,3,57,58,64" />
+      <Folder Name="GPCA_DTI" Description="Descrição Partilha GPCA_DTI/1,3,57,58,7" />
+      <Folder Name="DF_DTI" Description="Descrição Partilha DF_DTI/1,3,57,58,65" />
+      <Folder Name="DSE_DTI" Description="Descrição Partilha DSE_DTI/1,3,57,58,66" />
+      <Folder Name="DET_DTI" Description="Descrição Partilha DET_DTI/1,3,57,58,67" />
+      <Folder Name="DA_DTI" Description="Descrição Partilha DA_DTI/1,3,57,58,68" />
+      <Folder Name="DGAAC_GJ" Description="Descrição Partilha DGAAC_GJ/1,3,8,9,63" />
+      <Folder Name="DGAAT_GJ" Description="Descrição Partilha DGAAT_GJ/1,3,22,23,63" />
+      <Folder Name="DO_GJ" Description="Descrição Partilha DO_GJ/1,3,28,29,63" />
+      <Folder Name="DGADE_GJ" Description="Descrição Partilha DGADE_GJ/1,3,43,44,63" />
+      <Folder Name="DE_GJ" Description="Descrição Partilha DE_GJ/1,3,63" />
+      <Folder Name="DGAAF_GJ" Description="Descrição Partilha DGAAF_GJ/1,3,45,46,63" />
+      <Folder Name="SEC_G_GJ" Description="Descrição Partilha SEC_G_GJ/1,3,56,63" />
+      <Folder Name="APCA_GJ" Description="Descrição Partilha APCA_GJ/1,3,6,63" />
+      <Folder Name="GAI_GJ" Description="Descrição Partilha GAI_GJ/1,3,63,75" />
+      <Folder Name="DPCE_GJ" Description="Descrição Partilha DPCE_GJ/1,3,63,69" />
+      <Folder Name="DRH_GJ" Description="Descrição Partilha DRH_GJ/1,3,63,70" />
+      <Folder Name="SAS_GJ" Description="Descrição Partilha SAS_GJ/1,3,63,74" />
+      <Folder Name="DTI_GJ" Description="Descrição Partilha DTI_GJ/1,3,63,57,58" />
+      <Folder Name="DCI_GJ" Description="Descrição Partilha DCI_GJ/1,3,63,64" />
+      <Folder Name="GPCA_GJ" Description="Descrição Partilha GPCA_GJ/1,3,63,7" />
+      <Folder Name="DF_GJ" Description="Descrição Partilha DF_GJ/1,3,63,65" />
+      <Folder Name="DSE_GJ" Description="Descrição Partilha DSE_GJ/1,3,63,66" />
+      <Folder Name="DET_GJ" Description="Descrição Partilha DET_GJ/1,3,63,67" />
+      <Folder Name="DA_GJ" Description="Descrição Partilha DA_GJ/1,3,63,68" />
+      <Folder Name="DGAAC_DCI" Description="Descrição Partilha DGAAC_DCI/1,3,8,9,64" />
+      <Folder Name="DGAAT_DCI" Description="Descrição Partilha DGAAT_DCI/1,3,22,23,64" />
+      <Folder Name="DO_DCI" Description="Descrição Partilha DO_DCI/1,3,28,29,64" />
+      <Folder Name="DGADE_DCI" Description="Descrição Partilha DGADE_DCI/1,3,43,44,64" />
+      <Folder Name="DE_DCI" Description="Descrição Partilha DE_DCI/1,3,64" />
+      <Folder Name="DGAAF_DCI" Description="Descrição Partilha DGAAF_DCI/1,3,45,46,64" />
+      <Folder Name="SEC_G_DCI" Description="Descrição Partilha SEC_G_DCI/1,3,56,64" />
+      <Folder Name="APCA_DCI" Description="Descrição Partilha APCA_DCI/1,3,6,64" />
+      <Folder Name="GAI_DCI" Description="Descrição Partilha GAI_DCI/1,3,64,75" />
+      <Folder Name="DPCE_DCI" Description="Descrição Partilha DPCE_DCI/1,3,64,69" />
+      <Folder Name="DRH_DCI" Description="Descrição Partilha DRH_DCI/1,3,64,70" />
+      <Folder Name="SAS_DCI" Description="Descrição Partilha SAS_DCI/1,3,64,74" />
+      <Folder Name="DTI_DCI" Description="Descrição Partilha DTI_DCI/1,3,64,57,58" />
+      <Folder Name="GJ_DCI" Description="Descrição Partilha GJ_DCI/1,3,64,63" />
+      <Folder Name="GPCA_DCI" Description="Descrição Partilha GPCA_DCI/1,3,64,7" />
+      <Folder Name="DF_DCI" Description="Descrição Partilha DF_DCI/1,3,64,65" />
+      <Folder Name="DSE_DCI" Description="Descrição Partilha DSE_DCI/1,3,64,66" />
+      <Folder Name="DET_DCI" Description="Descrição Partilha DET_DCI/1,3,64,67" />
+      <Folder Name="DA_DCI" Description="Descrição Partilha DA_DCI/1,3,64,68" />
+      <Folder Name="DGAAC_GPCA" Description="Descrição Partilha DGAAC_GPCA/1,3,7,8,9," />
+      <Folder Name="DGAAT_GPCA" Description="Descrição Partilha DGAAT_GPCA/1,3,722,23" />
+      <Folder Name="DO_GPCA" Description="Descrição Partilha DO_GPCA/1,3,7,28,29" />
+      <Folder Name="DGADE_GPCA" Description="Descrição Partilha DGADE_GPCA/1,3,743,44" />
+      <Folder Name="DE_GPCA" Description="Descrição Partilha DE_GPCA/1,3,7" />
+      <Folder Name="DGAAF_GPCA" Description="Descrição Partilha DGAAF_GPCA/1,3,7,45,46" />
+      <Folder Name="SEC_G_GPCA" Description="Descrição Partilha SEC_G_GPCA/1,3,7,56" />
+      <Folder Name="APCA_GPCA" Description="Descrição Partilha APCA_GPCA/1,3,6,7" />
+      <Folder Name="GAI_GPCA" Description="Descrição Partilha GAI_GPCA/1,3,7,75" />
+      <Folder Name="DPCE_GPCA" Description="Descrição Partilha DPCE_GPCA/1,3,7,69" />
+      <Folder Name="DRH_GPCA" Description="Descrição Partilha DRH_GPCA/1,3,7,70" />
+      <Folder Name="SAS_GPCA" Description="Descrição Partilha SAS_GPCA/1,3,7,74" />
+      <Folder Name="DTI_GPCA" Description="Descrição Partilha DTI_GPCA/1,3,7,57,58" />
+      <Folder Name="GJ_GPCA" Description="Descrição Partilha GJ_GPCA/1,3,7,63" />
+      <Folder Name="DCI_GPCA" Description="Descrição Partilha DCI_GPCA/1,3,7,64" />
+      <Folder Name="DF_GPCA" Description="Descrição Partilha DF_GPCA/1,3,7,65" />
+      <Folder Name="DSE_GPCA" Description="Descrição Partilha DSE_GPCA/1,3,7,66" />
+      <Folder Name="DET_GPCA" Description="Descrição Partilha DET_GPCA/1,3,7,67" />
+      <Folder Name="DA_GPCA" Description="Descrição Partilha DA_GPCA/1,3,7,68" />
+      <Folder Name="DGAAC_DF" Description="Descrição Partilha DGAAC_DF/1,3,8,9,65" />
+      <Folder Name="DGAAT_DF" Description="Descrição Partilha DGAAT_DF/1,3,22,23,65" />
+      <Folder Name="DO_DF" Description="Descrição Partilha DO_DF/1,3,28,29,65" />
+      <Folder Name="DGADE_DF" Description="Descrição Partilha DGADE_DF/1,3,43,44,65" />
+      <Folder Name="DE_DF" Description="Descrição Partilha DE_DF/1,3,65" />
+      <Folder Name="DGAAF_DF" Description="Descrição Partilha DGAAF_DF/1,3,45,46,65" />
+      <Folder Name="SEC_G_DF" Description="Descrição Partilha SEC_G_DF/1,3,56,65" />
+      <Folder Name="APCA_DF" Description="Descrição Partilha APCA_DF/1,3,6,65" />
+      <Folder Name="GAI_DF" Description="Descrição Partilha GAI_DF/1,3,65,75" />
+      <Folder Name="DPCE_DF" Description="Descrição Partilha DPCE_DF/1,3,65,69" />
+      <Folder Name="DRH_DF" Description="Descrição Partilha DRH_DF/1,3,65,70" />
+      <Folder Name="SAS_DF" Description="Descrição Partilha SAS_DF/1,3,65,74" />
+      <Folder Name="DTI_DF" Description="Descrição Partilha DTI_DF/1,3,65,57,58" />
+      <Folder Name="GJ_DF" Description="Descrição Partilha GJ_DF/1,3,65,63" />
+      <Folder Name="DCI_DF" Description="Descrição Partilha DCI_DF/1,3,65,64" />
+      <Folder Name="GPCA_DF" Description="Descrição Partilha GPCA_DF/1,3,65,7" />
+      <Folder Name="DSE_DF" Description="Descrição Partilha DSE_DF/1,3,65,66" />
+      <Folder Name="DET_DF" Description="Descrição Partilha DET_DF/1,3,65,67" />
+      <Folder Name="DA_DF" Description="Descrição Partilha DA_DF/1,3,65,68" />
+      <Folder Name="DGAAC_DSE" Description="Descrição Partilha DGAAC_DSE/1,3,8,9,66" />
+      <Folder Name="DGAAT_DSE" Description="Descrição Partilha DGAAT_DSE/1,3,22,23,66" />
+      <Folder Name="DO_DSE" Description="Descrição Partilha DO_DSE/1,3,28,29,66" />
+      <Folder Name="DGADE_DSE" Description="Descrição Partilha DGADE_DSE/1,3,43,44,66" />
+      <Folder Name="DE_DSE" Description="Descrição Partilha DE_DSE/1,3,66" />
+      <Folder Name="DGAAF_DSE" Description="Descrição Partilha DGAAF_DSE/1,3,45,46,66" />
+      <Folder Name="SEC_G_DSE" Description="Descrição Partilha SEC_G_DSE/1,3,56,66" />
+      <Folder Name="APCA_DSE" Description="Descrição Partilha APCA_DSE/1,3,6,66" />
+      <Folder Name="GAI_DSE" Description="Descrição Partilha GAI_DSE/1,3,66,75" />
+      <Folder Name="DPCE_DSE" Description="Descrição Partilha DPCE_DSE/1,3,66,69" />
+      <Folder Name="DRH_DSE" Description="Descrição Partilha DRH_DSE/1,3,66,70" />
+      <Folder Name="SAS_DSE" Description="Descrição Partilha SAS_DSE/1,3,66,74" />
+      <Folder Name="DTI_DSE" Description="Descrição Partilha DTI_DSE/1,3,66,57,58" />
+      <Folder Name="GJ_DSE" Description="Descrição Partilha GJ_DSE/1,3,66,63" />
+      <Folder Name="DCI_DSE" Description="Descrição Partilha DCI_DSE/1,3,66,64" />
+      <Folder Name="GPCA_DSE" Description="Descrição Partilha GPCA_DSE/1,3,66,7" />
+      <Folder Name="DF_DSE" Description="Descrição Partilha DF_DSE/1,3,66,65" />
+      <Folder Name="DET_DSE" Description="Descrição Partilha DET_DSE/1,3,66,67" />
+      <Folder Name="DA_DSE" Description="Descrição Partilha DA_DSE/1,3,66,68" />
+      <Folder Name="DGAAC_DET" Description="Descrição Partilha DGAAC_DET/1,3,8,9,67" />
+      <Folder Name="DGAAT_DET" Description="Descrição Partilha DGAAT_DET/1,3,22,23,67" />
+      <Folder Name="DO_DET" Description="Descrição Partilha DO_DET/1,3,28,29,67" />
+      <Folder Name="DGADE_DET" Description="Descrição Partilha DGADE_DET/1,3,43,44,67" />
+      <Folder Name="DE_DET" Description="Descrição Partilha DE_DET/1,3,67" />
+      <Folder Name="DGAAF_DET" Description="Descrição Partilha DGAAF_DET/1,3,45,46,67" />
+      <Folder Name="SEC_G_DET" Description="Descrição Partilha SEC_G_DET/1,3,56,67" />
+      <Folder Name="APCA_DET" Description="Descrição Partilha APCA_DET/1,3,6,67" />
+      <Folder Name="GAI_DET" Description="Descrição Partilha GAI_DET/1,3,67,75" />
+      <Folder Name="DPCE_DET" Description="Descrição Partilha DPCE_DET/1,3,67,69" />
+      <Folder Name="DRH_DET" Description="Descrição Partilha DRH_DET/1,3,67,70" />
+      <Folder Name="SAS_DET" Description="Descrição Partilha SAS_DET/1,3,67,74" />
+      <Folder Name="DTI_DET" Description="Descrição Partilha DTI_DET/1,3,67,57,58" />
+      <Folder Name="GJ_DET" Description="Descrição Partilha GJ_DET/1,3,67,63" />
+      <Folder Name="DCI_DET" Description="Descrição Partilha DCI_DET/1,3,67,64" />
+      <Folder Name="GPCA_DET" Description="Descrição Partilha GPCA_DET/1,3,67,7" />
+      <Folder Name="DF_DET" Description="Descrição Partilha DF_DET/1,3,67,65" />
+      <Folder Name="DSE_DET" Description="Descrição Partilha DSE_DET/1,3,67,66" />
+      <Folder Name="DA_DET" Description="Descrição Partilha DA_DET/1,3,67,68" />
+      <Folder Name="DGAAC_DA" Description="Descrição Partilha DGAAC_DA/1,3,8,9,68" />
+      <Folder Name="DGAAT_DA" Description="Descrição Partilha DGAAT_DA/1,3,22,23,68" />
+      <Folder Name="DO_DA" Description="Descrição Partilha DO_DA/1,3,28,29,68" />
+      <Folder Name="DGADE_DA" Description="Descrição Partilha DGADE_DA/1,3,43,44,68" />
+      <Folder Name="DE_DA" Description="Descrição Partilha DE_DA/1,3,68" />
+      <Folder Name="DGAAF_DA" Description="Descrição Partilha DGAAF_DA/1,3,45,46,68" />
+      <Folder Name="SEC_G_DA" Description="Descrição Partilha SEC_G_DA/1,3,56,68" />
+      <Folder Name="APCA_DA" Description="Descrição Partilha APCA_DA/1,3,6,68" />
+      <Folder Name="GAI_DA" Description="Descrição Partilha GAI_DA/1,3,68,75" />
+      <Folder Name="DPCE_DA" Description="Descrição Partilha DPCE_DA/1,3,68,69" />
+      <Folder Name="DRH_DA" Description="Descrição Partilha DRH_DA/1,3,68,70" />
+      <Folder Name="SAS_DA" Description="Descrição Partilha SAS_DA/1,3,68,74" />
+      <Folder Name="DTI_DA" Description="Descrição Partilha DTI_DA/1,3,68,57,58" />
+      <Folder Name="GJ_DA" Description="Descrição Partilha GJ_DA/1,3,68,63" />
+      <Folder Name="DCI_DA" Description="Descrição Partilha DCI_DA/1,3,68,64" />
+      <Folder Name="GPCA_DA" Description="Descrição Partilha GPCA_DA/1,3,68,7" />
+      <Folder Name="DF_DA" Description="Descrição Partilha DF_DA/1,3,68,65" />
+      <Folder Name="DSE_DA" Description="Descrição Partilha DSE_DA/1,3,68,66" />
+      <Folder Name="DET_DA" Description="Descrição Partilha DET_DA/1,3,68,67" />
+    </Folders>
+  </Folder>
+</Folders>
+</Structure>

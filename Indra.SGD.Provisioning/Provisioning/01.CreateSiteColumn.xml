@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+
+	<Field
+		Type="Text"
+		DisplayName="Número de Registo"
+		Description="Descrição do Número de Registo"
+		Required="FALSE"
+		EnforceUniqueValues="FALSE"
+		Indexed="true" 
+		MaxLength="255"
+		Group="Colunas Indra"
+		ID=""
+		StaticName="IndraColumnNumeroRegisto"
+		Name="IndraColumnNumeroRegisto">
+	</Field>
+	
+	<Field 
+		Type="Number"
+		DisplayName="Ano de Registo"
+		Description="Descrição do Ano de Registo"
+		Indexed="true"
+		EnforceUniqueValues="FALSE"
+		Min="0"
+		Max="9999"
+		Decimals="0"
+		Group="Colunas Indra"
+		ID=""
+		StaticName="IndraColumnAnoRegisto"
+		Name="IndraColumnAnoRegisto"
+		Sortable="TRUE">
+	</Field>
+	
+	<Field 
+		Type="DateTime"
+		DisplayName="Data de Registo"
+		Description="Descrição da Data de Registo"
+		Required="FALSE"
+		EnforceUniqueValues="FALSE"
+		Indexed="true"
+		Format="DateTime"
+		Group="Colunas Indra"
+		FriendlyDisplayFormat="Disabled"
+		ID=""
+		StaticName="IndraColumnDataRegisto"
+		Name="IndraColumnDataRegisto">
+	</Field>
+	
+	<Field 
+		Type="Text"
+		DisplayName="Número do Documento"
+		Description="Descrição da Número do Documento"
+		Required="FALSE"
+		EnforceUniqueValues="FALSE"
+		Indexed="true"
+		MaxLength="255"
+		Group="Colunas Indra"
+		FriendlyDisplayFormat="Disabled"
+		ID=""
+		StaticName="IndraColumnNumeroDocumento"
+		Name="IndraColumnNumeroDocumento">
+	</Field>
+	
+	<Field 
+		Type="DateTime"
+		DisplayName="Data do Documento"
+		Description="Descrição da Data do Documento"
+		Required="FALSE"
+		EnforceUniqueValues="FALSE"
+		Indexed="true"
+		Format="DateTime"
+		Group="Colunas Indra"
+		FriendlyDisplayFormat="Disabled"
+		ID=""
+		StaticName="IndraColumnDataDocumento"
+		Name="IndraColumnDataDocumento">
+	</Field>
+	
+	<Field
+		Type="Text"
+		DisplayName="Assunto"
+		Description="Descrição do Assunto"
+		Required="FALSE"
+		EnforceUniqueValues="FALSE"
+		Indexed="true"
+		MaxLength="255"
+		Group="Colunas Indra"
+		ID=""
+		Name="IndraColumnAssunto"
+		StaticName="IndraColumnAssunto">
+	</Field>
+	
+	<Field
+		Type="AutocompleteLookup"
+		DisplayName="Entidade Emissora"
+		Description="Descrição da Entidade Emissora"
+		Required="true"
+		EnforceUniqueValues="FALSE"
+		Indexed="true" 
+		Group="Colunas Indra"
+		Format="Dropdown"
+		ID=""
+		StaticName="IndraColumnEntidadeEmissora"
+		Name="IndraColumnEntidadeEmissora">
+	</Field>
+	
+	<Field
+		Type="AutocompleteLookup"
+		DisplayName="Entidade Recetora"
+		Description="Descrição da Entidade Recetora"
+		Required="true"
+		EnforceUniqueValues="FALSE"
+		Indexed="true" 
+		Group="Colunas Indra"
+		Format="Dropdown"
+		ID=""
+		StaticName="IndraColumnEntidadeRecetora"
+		Name="IndraColumnEntidadeRecetora">
+	</Field>
+	
+	<Field
+		Type="AutocompleteLookup"
+		DisplayName="Tipo de Documento"
+		Description="Descrição do Tipo de Documento"
+		Required="true"
+		EnforceUniqueValues="FALSE"
+		Indexed="true" 
+		Group="Colunas Indra"
+		Format="Dropdown"
+		ID=""
+		StaticName="IndraColumnTipoDocumento"
+		Name="IndraColumnTipoDocumento">
+	</Field>
+	
+	<Field
+		Type="AutocompleteLookup"
+		DisplayName="Centro de Distribuição"
+		Description="Descrição do Centro de Distribuição"
+		Required="true"
+		EnforceUniqueValues="FALSE"
+		Indexed="true" 
+		Group="Colunas Indra"
+		Format="Dropdown"
+		ID=""
+		StaticName="IndraColumnCentroDistribuicao"
+		Name="IndraColumnCentroDistribuicao">
+	</Field>
+	
+	<Field 
+		Type="Note"
+		DisplayName="Notas"
+		Description="Notas relativas ao Documento"
+		Required="FALSE"
+		EnforceUniqueValues="FALSE"
+		Indexed="true"
+		UnlimitedLengthInDocumentLibrary="TRUE"
+		NumLines="6"
+		RichText="FALSE"
+		Sortable="FALSE"
+		Group="Colunas Indra"
+		ID=""
+		StaticName="IndraColumnNotas"
+		Name="IndraColumnNotas">
+	</Field>
+	
+	<Field 
+		ID=""
+		Type="TaxonomyFieldType"
+		DisplayName="Classificação"
+		Description="Classificação Taxonomica do Documento"
+		ShowField="Term2070"
+		Required="TRUE"
+		Indexed="true"
+		EnforceUniqueValues="FALSE"
+		Group="Colunas Indra"
+		StaticName="IndraColumnClassificacao"
+		Name="IndraColumnClassificacao">
+	</Field>
+	
+	<Field 
+		Type="Note"
+		DisplayName="Outros Nomes"
+		Description="Outros nomes para a Entidade"
+		Required="FALSE"
+		EnforceUniqueValues="FALSE"
+		Indexed="true"
+		UnlimitedLengthInDocumentLibrary="TRUE"
+		NumLines="6"
+		RichText="FALSE"
+		Sortable="FALSE"
+		Group="Colunas Indra"
+		ID=""
+		StaticName="IndraColumnEntidadeOutrosNomes"
+		Name="IndraColumnEntidadeOutrosNomes">
+	</Field>
+	
+	<Field 
+		Type="Number"
+		DisplayName="NIF"
+		Description="Número de Identificação Fiscal"
+		Indexed="true"
+		EnforceUniqueValues="true"
+		Min="0"
+		Decimals="0"
+		Group="Colunas Indra"
+		ID=""
+		StaticName="IndraColumnEntidadeNif"
+		Name="IndraColumnEntidadeNif"
+		Sortable="TRUE">
+	</Field>
+	
+	<Field 
+		Type="Note"
+		DisplayName="Moradas"
+		Description="Moradas da Entidade"
+		Required="FALSE"
+		EnforceUniqueValues="FALSE"
+		Indexed="true"
+		UnlimitedLengthInDocumentLibrary="TRUE"
+		NumLines="6"
+		RichText="FALSE"
+		Sortable="FALSE"
+		Group="Colunas Indra"
+		ID=""
+		StaticName="IndraColumnEntidadeMoradas"
+		Name="IndraColumnEntidadeMoradas">
+	</Field>
+	
+	<Field
+		Type="Text"
+		DisplayName="Cód. Postal"
+		Description="Código Postal"
+		Required="FALSE"
+		EnforceUniqueValues="FALSE"
+		Indexed="true"
+		MaxLength="255"
+		Group="Colunas Indra"
+		ID=""
+		Name="IndraColumnEntidadeCodPostal"
+		StaticName="IndraColumnEntidadeCodPostal">
+	</Field>
+	
+	<Field
+		Type="Text"
+		DisplayName="País"
+		Description="País da Entidade"
+		Required="FALSE"
+		EnforceUniqueValues="FALSE"
+		Indexed="true"
+		MaxLength="255"
+		Group="Colunas Indra"
+		ID=""
+		Name="IndraColumnEntidadePais"
+		StaticName="IndraColumnEntidadePais">
+	</Field>
+	
+	<Field 
+		Type="Note"
+		DisplayName="Telefone"
+		Description="Telefones da Entidade"
+		Required="FALSE"
+		EnforceUniqueValues="FALSE"
+		Indexed="true"
+		UnlimitedLengthInDocumentLibrary="TRUE"
+		NumLines="6"
+		RichText="FALSE"
+		Sortable="FALSE"
+		Group="Colunas Indra"
+		ID=""
+		StaticName="IndraColumnEntidadeTelefones"
+		Name="IndraColumnEntidadeTelefones">
+	</Field>
+	
+	<Field 
+		Type="Note"
+		DisplayName="FAX"
+		Description="Faxs da Entidade"
+		Required="FALSE"
+		EnforceUniqueValues="FALSE"
+		Indexed="true"
+		UnlimitedLengthInDocumentLibrary="TRUE"
+		NumLines="6"
+		RichText="FALSE"
+		Sortable="FALSE"
+		Group="Colunas Indra"
+		ID=""
+		StaticName="IndraColumnEntidadeFaxs"
+		Name="IndraColumnEntidadeFaxs">
+	</Field>
+	
+	<Field
+		Type="Text"
+		DisplayName="Email"
+		Description="Email da Entidade"
+		Required="FALSE"
+		EnforceUniqueValues="FALSE"
+		Indexed="true"
+		MaxLength="255"
+		Group="Colunas Indra"
+		ID=""
+		Name="IndraColumnEntidadeEmail"
+		StaticName="IndraColumnEntidadeEmail">
+	</Field>
+	
+</Elements>

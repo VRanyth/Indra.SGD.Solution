@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--NOTA: MUITO IMPORTANTE - Apenas adicionar colunas que se relacionem com Term Set's LOCAIS (Site Collection)-->
+<!--NOTA: Usar o GUID quando os termos estiverem debaixo de um subset -->
+<indraconfiguration>
+  <columnstotermsets>
+    <column enable='1' title='IndraColumnClassificacao' termset='Navegação no Site' anchor='Navegação no Site' guid="70cccf2c-62d5-4e49-8d40-b5c029b1d2eb" IsPathRendered='FALSE' />
+  </columnstotermsets>
+</indraconfiguration>

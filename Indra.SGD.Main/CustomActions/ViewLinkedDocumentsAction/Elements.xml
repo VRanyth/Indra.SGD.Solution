@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction Id="ViewLinkedDocumentsAction"
+   RegistrationType="List"
+   RegistrationId="101"
+   Location="EditControlBlock"
+   Sequence="10002"
+   Title="Documentos Associados">
+    <UrlAction Url="javascript: SGD.LinkedDocuments.modalEditForm()"></UrlAction>/>
+  </CustomAction>
+</Elements>

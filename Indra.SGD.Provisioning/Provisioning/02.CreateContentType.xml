@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+
+	<ContentType
+			  
+		ID="0x01004D32EA4846514A599FCA5F6DB6775B66"
+		Name="Indra Entity Base"
+		Description="Criar um novo item genérico."
+		Group="Tipos de Conteúdo Indra"
+		Version="0"
+		Hidden="False"
+		ReadOnly="False"
+		Sealed="False">
+		
+		<FieldRefs>
+			<FieldRef Name="Title" Required="TRUE" ShowInNewForm="TRUE" ShowInEditForm="TRUE" />
+			<FieldRef Name="Created" Hidden="FALSE" />
+			<FieldRef Name="Modified" Hidden="FALSE" />			
+			<FieldRef Name="Modified_x0020_By" Hidden="FALSE" />						
+			<FieldRef Name="Created_x0020_By" Hidden="FALSE" />							
+					
+			<FieldRef Name="IndraColumnEntidadeOutrosNomes" Hidden="FALSE" />	
+			<FieldRef Name="IndraColumnEntidadeNif" Hidden="FALSE" />
+			<FieldRef Name="IndraColumnEntidadeMoradas" Hidden="FALSE" />	
+			<FieldRef Name="IndraColumnEntidadeCodPostal" Hidden="FALSE" />	
+			<FieldRef Name="IndraColumnEntidadePais" Hidden="FALSE" />
+			<FieldRef Name="IndraColumnEntidadeTelefones" Hidden="FALSE" />
+			<FieldRef Name="IndraColumnEntidadeFaxs" Hidden="FALSE" />
+			<FieldRef Name="IndraColumnEntidadeEmail" Hidden="FALSE" />
+		
+		</FieldRefs>
+	
+	</ContentType>
+	
+	<ContentType
+			  
+		ID="0x010100838a2518e4f842d6902a15e5b1530fe4"
+		Name="Indra Document"
+		Description="Criar um novo item genérico."
+		Group="Tipos de Conteúdo Indra"
+		Version="0"
+		Hidden="False"
+		ReadOnly="False"
+		Sealed="False">
+		
+		<FieldRefs>			
+			<FieldRef Name="IndraColumnNumeroRegisto" Hidden="false" />
+			<FieldRef Name="IndraColumnAnoRegisto" Hidden="false" />
+			<FieldRef Name="IndraColumnDataRegisto" Hidden="false" />
+			<FieldRef Name="IndraColumnNumeroDocumento" Hidden="false" />
+			<FieldRef Name="IndraColumnDataDocumento" Hidden="false" />
+			<FieldRef Name="IndraColumnAssunto" Hidden="false" />
+			<FieldRef Name="IndraColumnNotas" Hidden="false" />
+			<FieldRef Name="IndraColumnTipoDocumento" Hidden="false" />
+			<FieldRef Name="IndraColumnEntidadeEmissora" Hidden="false" />
+			<FieldRef Name="IndraColumnEntidadeRecetora" Hidden="false" />
+		
+		</FieldRefs>
+	
+	</ContentType>
+	
+	<ContentType
+			  
+		ID="0x01010045a79078357543439e264f4374220e71"
+		Name="Indra Document Base"
+		Description="Criar um novo item genérico."
+		Group="Tipos de Conteúdo Indra"
+		Version="0"
+		Hidden="False"
+		ReadOnly="False"
+		Sealed="False">
+		
+		<FieldRefs>			
+			<FieldRef Name="IndraColumnNumeroRegisto" Hidden="false" />
+			<FieldRef Name="IndraColumnAnoRegisto" Hidden="false" />
+			<FieldRef Name="IndraColumnDataRegisto" Hidden="false" />
+			<FieldRef Name="IndraColumnNumeroDocumento" Hidden="false" />
+			<FieldRef Name="IndraColumnDataDocumento" Hidden="false" />
+			<FieldRef Name="IndraColumnAssunto" Hidden="false" />
+			<FieldRef Name="IndraColumnNotas" Hidden="false" />
+		
+		</FieldRefs>
+	
+	</ContentType>
+	
+	<ContentType
+
+		ID="0x0120D520001833F6392CE941EFBFBAA28D76A69F7E"
+		Name="Indra Document Set"
+		Description="Criar um novo Conjunto de Documentos."
+		Group="Tipos de Conteúdo Indra"
+		Version="0"
+		Hidden="False"
+		ReadOnly="False"
+		Sealed="False">
+		
+		<FieldRefs>			
+			<FieldRef Name="IndraColumnNumeroRegisto" Hidden="false" />
+			<FieldRef Name="IndraColumnAnoRegisto" Hidden="false" />
+			<FieldRef Name="IndraColumnDataRegisto" Hidden="false" />
+			<FieldRef Name="IndraColumnNumeroDocumento" Hidden="false" />
+			<FieldRef Name="IndraColumnDataDocumento" Hidden="false" />
+			<FieldRef Name="IndraColumnAssunto" Hidden="false" />
+			<FieldRef Name="IndraColumnNotas" Hidden="false" />
+			<FieldRef Name="IndraColumnTipoDocumento" Hidden="false" />
+			<FieldRef Name="IndraColumnEntidadeEmissora" Hidden="false" />
+			<FieldRef Name="IndraColumnEntidadeRecetora" Hidden="false" />
+
+		</FieldRefs>
+	
+	</ContentType>
+
+</Elements>

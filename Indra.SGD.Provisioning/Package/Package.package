@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="8fd6ac1a-2ef3-4bcc-afe7-f10baccb9cd4" 
+        solutionId="8fd6ac1a-2ef3-4bcc-afe7-f10baccb9cd4" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Indra.SGD.Provisioning"
+        sharePointProductVersion="15.0">
+</package>

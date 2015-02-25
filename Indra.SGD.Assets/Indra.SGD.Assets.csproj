@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{735EA7E3-11A1-4A49-B99A-2EF7FE478CA2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Indra.SGD.Assets</RootNamespace>
+    <AssemblyName>Indra.SGD.Assets</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetOfficeVersion>15.0</TargetOfficeVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{C1CDDADD-2546-481F-9697-4EA41081F2FC};{14822709-B5A1-4724-98CA-57A101D1B079};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <SandboxedSolution>True</SandboxedSolution>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.SharePoint" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="css\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{3fe1da79-816b-4da9-97e4-ce6e893e8d4e}</SharePointProjectItemId>
+    </None>
+    <None Include="Features\Indra.SGD.Assets\Indra.SGD.Assets.feature">
+      <FeatureId>{ded11205-2d57-41da-b35a-d05a35a51afc}</FeatureId>
+    </None>
+    <None Include="js\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{e918cfb6-fdb6-4fe6-833e-cd1b740b6c48}</SharePointProjectItemId>
+    </None>
+    <None Include="key.snk" />
+    <None Include="masterpage\SGDIndra.master" />
+    <None Include="masterpage\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{f9689552-cb31-421c-93e3-34b3f5d91eda}</SharePointProjectItemId>
+    </None>
+    <None Include="images\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{6e2cd1d2-ac32-46c9-bde9-d885a53b30da}</SharePointProjectItemId>
+    </None>
+    <None Include="Package\Package.package">
+      <PackageId>{87bd04bc-a56b-43f7-bbca-621b65f65b8d}</PackageId>
+    </None>
+    <None Include="Package\Package.Template.xml">
+      <DependentUpon>Package.package</DependentUpon>
+    </None>
+    <None Include="pagelayouts\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{f8d644a1-fc66-4164-8726-dce078ef0d10}</SharePointProjectItemId>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="css\Elements.xml" />
+    <Content Include="css\Indra.SGD.Assets\main.css" />
+    <Content Include="Features\Indra.SGD.Assets\Indra.SGD.Assets.Template.xml">
+      <DependentUpon>Indra.SGD.Assets.feature</DependentUpon>
+    </Content>
+    <Content Include="images\Indra.SGD.Assets\loader.gif" />
+    <Content Include="js\Elements.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="js\Indra.SGD.Assets\functions.js" />
+    <Content Include="js\Indra.SGD.Assets\jquery-1.10.2.js.js" />
+    <Content Include="css\Indra.SGD.Assets\jquery-ui.css" />
+    <Content Include="js\Indra.SGD.Assets\jquery-ui.js" />
+    <Content Include="masterpage\Elements.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="images\Elements.xml" />
+    <Content Include="pagelayouts\Elements.xml" />
+    <Content Include="pagelayouts\SGDGenericPageLayout.aspx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(VSToolsPath)\SharePointTools\Microsoft.VisualStudio.SharePoint.targets" Condition="'$(VSToolsPath)' != ''" />
+</Project>

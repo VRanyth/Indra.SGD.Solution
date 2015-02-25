@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{13CA0797-4D22-463D-AC7E-A411B446B95E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Indra.SGD.Main</RootNamespace>
+    <AssemblyName>Indra.SGD.Main</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetOfficeVersion>15.0</TargetOfficeVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{C1CDDADD-2546-481F-9697-4EA41081F2FC};{14822709-B5A1-4724-98CA-57A101D1B079};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <SandboxedSolution>False</SandboxedSolution>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.SharePoint" />
+    <Reference Include="Microsoft.SharePoint.Client.ServerRuntime" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EventReceivers\DocumentSetUpdate\DocumentSetUpdate.cs" />
+    <Compile Include="EventReceivers\RelatedDocumentRemoved\RelatedDocumentRemoved.cs" />
+    <Compile Include="Layouts\Indra.SGD.CustomActions\LinkDocuments.aspx.cs">
+      <DependentUpon>LinkDocuments.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Layouts\Indra.SGD.CustomActions\LinkDocuments.aspx.designer.cs">
+      <DependentUpon>LinkDocuments.aspx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layouts\Indra.SGD.CustomActions\LinkedDocuments.aspx.cs">
+      <DependentUpon>LinkedDocuments.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Layouts\Indra.SGD.CustomActions\LinkedDocuments.aspx.designer.cs">
+      <DependentUpon>LinkedDocuments.aspx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="EventReceivers\DocumentSetUpdate\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{426ac888-0d63-4740-8c25-b93141e12915}</SharePointProjectItemId>
+    </None>
+    <None Include="EventReceivers\RelatedDocumentRemoved\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{1020fd8b-0879-4522-b590-8450b056769d}</SharePointProjectItemId>
+    </None>
+    <None Include="Features\Indra.SGD.MainFeature\Indra.SGD.MainFeature.feature">
+      <FeatureId>{e0983264-1f63-4e00-9217-8ef23201166a}</FeatureId>
+    </None>
+    <None Include="key.snk" />
+    <None Include="CustomActions\LinkDocumentsAction\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{3097fc4a-318c-489d-b68e-9518094c304e}</SharePointProjectItemId>
+    </None>
+    <None Include="Layouts\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{ac25bea7-0eb4-4af8-a7e3-fcf48a82fd90}</SharePointProjectItemId>
+    </None>
+    <None Include="Package\Package.package">
+      <PackageId>{077559b8-c4d3-46ae-9978-effe220ffa9f}</PackageId>
+    </None>
+    <None Include="Package\Package.Template.xml">
+      <DependentUpon>Package.package</DependentUpon>
+    </None>
+    <None Include="CustomActions\ViewLinkedDocumentsAction\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{d93d621c-1019-47e3-8108-16d4c5fa52c6}</SharePointProjectItemId>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="EventReceivers\DocumentSetUpdate\Elements.xml" />
+    <Content Include="EventReceivers\RelatedDocumentRemoved\Elements.xml" />
+    <Content Include="Features\Indra.SGD.MainFeature\Indra.SGD.MainFeature.Template.xml">
+      <DependentUpon>Indra.SGD.MainFeature.feature</DependentUpon>
+    </Content>
+    <Content Include="CustomActions\LinkDocumentsAction\Elements.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="CustomActions\ViewLinkedDocumentsAction\Elements.xml" />
+    <Content Include="Layouts\Indra.SGD.CustomActions\LinkDocuments.aspx" />
+    <Content Include="Layouts\Indra.SGD.CustomActions\LinkedDocuments.aspx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(VSToolsPath)\SharePointTools\Microsoft.VisualStudio.SharePoint.targets" Condition="'$(VSToolsPath)' != ''" />
+</Project>

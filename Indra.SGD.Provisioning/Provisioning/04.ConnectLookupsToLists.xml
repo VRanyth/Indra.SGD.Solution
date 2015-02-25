@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<indraconfiguration>
+  <columnstolists>
+    <column enable="1" title='IndraColumnTipoDocumento' LookupList='TiposDocumentos' AllowMultipleValues='FALSE' LookupField="Title" />
+	<column enable="1" title='IndraColumnEntidadeEmissora' LookupList='Entidades' AllowMultipleValues='FALSE' LookupField="Title" />
+	<column enable="1" title='IndraColumnEntidadeRecetora' LookupList='Entidades' AllowMultipleValues='FALSE' LookupField="Title" />
+	
+	Entidades
+  </columnstolists>
+</indraconfiguration>

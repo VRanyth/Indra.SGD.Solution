@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="pagelayouts" Url="_catalogs/masterpage">
+    <File Path="pagelayouts\SGDGenericPageLayout.aspx" Url="Indra/Pagelayouts/SGDGenericPageLayout.aspx" ReplaceContent="TRUE" IgnoreIfAlreadyExists="False" Type="GhostableInLibrary">
+      <Property Name="Title" Value="SGD - Página de Guia médica" />
+      <Property Name="Description" Value="SGD - Página de Guia médica" />
+      <Property Name="ContentType" Value="$Resources:cmscore,contenttype_pagelayout_name;" />
+      <Property Name="PublishingAssociatedContentType" Value=";#Indra Base Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3901;#" />
+      <Property Name="PublishingPreviewImage" Value="~SiteCollection/_catalogs/masterpage/$Resources:core,Culture;/Preview Images/WelcomeSplash.png, ~SiteCollection/_catalogs/masterpage/$Resources:core,Culture;/Preview Images/WelcomeSplash.png" />
+    </File>
+  </Module>
+</Elements>

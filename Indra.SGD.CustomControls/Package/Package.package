@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="75573d9b-0287-465e-ab52-acb8f173863a" solutionId="75573d9b-0287-465e-ab52-acb8f173863a" resetWebServer="false" sharePointProductVersion="15.0" name="Indra.SGD.CustomControls" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="1bbd6732-b17d-47cf-82e1-dfbf9432a8d6" />
+    <projectItemReference itemId="af92d35e-b0f5-4da7-8b71-0d0f96e9d63e" />
+    <projectItemReference itemId="615eaa6b-ac83-4d75-9f6b-803313efa376" />
+  </projectItems>
+</package>

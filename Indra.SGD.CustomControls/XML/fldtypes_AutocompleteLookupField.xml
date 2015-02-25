@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FieldTypes>
+	<FieldType>
+		<Field Name="TypeName">AutocompleteLookup</Field>
+		<Field Name="TypeDisplayName">Autocomplete Lookup Field</Field>
+		<Field Name="TypeShortDescription">Autocomplete Lookup Field</Field>
+		<Field Name="ParentType">Lookup</Field>
+		<Field Name="FieldTypeClass">Indra.SGD.CustomControls.Fields.AutocompleteLookupField, Indra.SGD.CustomControls, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c4da7af822153f2d</Field>
+		<Field Name="FieldEditorUserControl">/_controltemplates/15/CustomControls.Autocomplete.LookupField/AutocompleteLookupFieldEditor.ascx</Field>
+		<Field Name="Sortable">TRUE</Field>
+		<Field Name="Filterable">TRUE</Field>
+		<Field Name="AllowBaseTypeRendering">TRUE</Field>   
+	</FieldType>
+	<FieldType>
+		<Field Name="TypeName">AutocompleteMultiLookup</Field>
+		<Field Name="ParentType">LookupMulti</Field>
+		<Field Name="TypeDisplayName">Autocomplete Lookup Field</Field>
+		<Field Name="TypeShortDescription">Autocomplete Lookup Field</Field>
+		<Field Name="UserCreatable">FALSE</Field>
+		<Field Name="Sortable">FALSE</Field>
+		<Field Name="Filterable">TRUE</Field>
+		<Field Name="FieldTypeClass">Indra.SGD.CustomControls.Fields.AutocompleteLookupField, Indra.SGD.CustomControls, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c4da7af822153f2d</Field>
+		<Field Name="FieldEditorUserControl">/_controltemplates/15/CustomControls.Autocomplete.LookupField/AutocompleteLookupFieldEditor.ascx</Field>
+		<Field Name="AllowBaseTypeRendering">TRUE</Field>
+	</FieldType>
+</FieldTypes>

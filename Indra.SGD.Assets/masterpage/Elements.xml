@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="masterpage" Url="_catalogs/masterpage/Indra/Masterpages">
+    <File Path="masterpage\SGDIndra.master" Url="SGDIndra.master" Type="GhostableInLibrary" ReplaceContent="True" IgnoreIfAlreadyExists="False" />
+  </Module>
+</Elements>
