@@ -91,7 +91,7 @@
       <SubType>Designer</SubType>
     </Content>
     <Content Include="js\Indra.SGD.Assets\functions.js" />
-    <Content Include="js\Indra.SGD.Assets\jquery-1.10.2.js.js" />
+    <Content Include="js\Indra.SGD.Assets\jquery-1.10.2.js" />
     <Content Include="css\Indra.SGD.Assets\jquery-ui.css" />
     <Content Include="js\Indra.SGD.Assets\jquery-ui.js" />
     <Content Include="masterpage\Elements.xml">

@@ -3,7 +3,7 @@
   <Files>
     <ProjectItemFile Source="Elements.xml" Target="js\" Type="ElementManifest" />
     <ProjectItemFile Source="Indra.SGD.Assets\functions.js" Target="js\Indra.SGD.Assets\" Type="ElementFile" />
-    <ProjectItemFile Source="Indra.SGD.Assets\jquery-1.10.2.js.js" Target="js\Indra.SGD.Assets\" Type="ElementFile" />
+    <ProjectItemFile Source="Indra.SGD.Assets\jquery-1.10.2.js" Target="js\Indra.SGD.Assets\" Type="ElementFile" />
     <ProjectItemFile Source="Indra.SGD.Assets\jquery-ui.js" Target="js\Indra.SGD.Assets\" Type="ElementFile" />
   </Files>
 </ProjectItem>

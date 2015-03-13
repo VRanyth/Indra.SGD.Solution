@@ -34,10 +34,10 @@
 
         <!-- Indra SGD -->
 
-        <link rel="stylesheet" href="~SiteCollection/Style Library/Indra/JS/jquery-ui.css" />
-        <script type="text/javascript" src="~SiteCollection/Style Library/Indra/JS/jquery-1.10.2.js"></script>
-        <script type="text/javascript" src="~SiteCollection/Style Library/Indra/JS/jquery-ui.js"></script>
-        <SharePoint:ScriptLink ID="ScriptLink3" Name="~SiteCollection/Style Library/Indra/JS/functions.js" runat="server" />
+        <link rel="stylesheet"  type="text/css" href="~SiteCollection/Style Library/Indra/JS/jquery-ui.css" />
+        <SharePoint:ScriptLink  Name="~SiteCollection/Style Library/Indra/JS/jquery-1.10.2.js" runat="server"></SharePoint:ScriptLink>
+        <SharePoint:ScriptLink  Name="~SiteCollection/Style Library/Indra/JS/jquery-ui.js" runat="server"></SharePoint:ScriptLink>
+        <SharePoint:ScriptLink ID="ScriptLink3" Name="~SiteCollection/Style Library/Indra/JS/functions.js" runat="server" ></SharePoint:ScriptLink>
 
         <!---->
 
